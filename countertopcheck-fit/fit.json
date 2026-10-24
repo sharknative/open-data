@@ -1,0 +1,1929 @@
+{
+ "name": "CountertopCheck appliance heights and cabinet clearances",
+ "url": "https://countertopcheck.com/fit/",
+ "checked": "2026-10-22",
+ "about": "Published heights, in-use heights and manual clearances for countertop appliances. Every number is quoted from the maker's page or manual (or a named retailer spec tab where the maker blocked access); a missing number is not published.",
+ "units": "inches; lb for weight",
+ "need": "tallest of closed height, in-use height, and closed height plus the clearance the manual asks for above",
+ "count": 59,
+ "rows": [
+  {
+   "id": "kitchenaid-artisan-mini-ksm3311x",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "Artisan Mini 3.5-qt tilt-head",
+   "model_number": "KSM3311X",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 12.375,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Artisan%C2%AE-Mini-3-5-Quart-Tilt-Head-Stand-Mixer/p/KSM3311XER"
+   },
+   "w": {
+    "v": 7.8,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Artisan%C2%AE-Mini-3-5-Quart-Tilt-Head-Stand-Mixer/p/KSM3311XER"
+   },
+   "d": {
+    "v": 12.3,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Artisan%C2%AE-Mini-3-5-Quart-Tilt-Head-Stand-Mixer/p/KSM3311XER"
+   },
+   "cord": {
+    "v": 48,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Artisan%C2%AE-Mini-3-5-Quart-Tilt-Head-Stand-Mixer/p/KSM3311XER"
+   },
+   "clear_above": false,
+   "need": 12.375,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "head-up height not published"
+  },
+  {
+   "id": "kitchenaid-classic-k45ss",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "Classic 4.5-qt tilt-head",
+   "model_number": "K45SS",
+   "asin": "B003OXNBYC",
+   "oos": false,
+   "h": {
+    "v": 13.9,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Classic%E2%84%A2-Series-4-5-Quart-Tilt-Head-Stand-Mixer/p/K45SSWH"
+   },
+   "w": {
+    "v": 8.7,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Classic%E2%84%A2-Series-4-5-Quart-Tilt-Head-Stand-Mixer/p/K45SSWH"
+   },
+   "d": {
+    "v": 14.1,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Classic%E2%84%A2-Series-4-5-Quart-Tilt-Head-Stand-Mixer/p/K45SSWH"
+   },
+   "cord": {
+    "v": 48,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Classic%E2%84%A2-Series-4-5-Quart-Tilt-Head-Stand-Mixer/p/K45SSWH"
+   },
+   "clear_above": false,
+   "need": 13.9,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "head-up height not published"
+  },
+  {
+   "id": "cuisinart-precision-master-sm-50",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Cuisinart",
+   "model": "Precision Master 5.5-qt tilt-head",
+   "model_number": "SM-50",
+   "asin": "B074MQBTFX",
+   "oos": false,
+   "h": {
+    "v": 14.13,
+    "u": "https://www.abt.com/Cuisinart-Precision-Master-5.5-Qt-White-Stand-Mixer-SM50/p/106866.html"
+   },
+   "d": {
+    "v": 14.17,
+    "u": "https://www.abt.com/Cuisinart-Precision-Master-5.5-Qt-White-Stand-Mixer-SM50/p/106866.html"
+   },
+   "clear_above": false,
+   "need": 14.13,
+   "complete": false,
+   "warn": null,
+   "note": "Tilt-head; head-up height not published. Height and depth from Abt's spec tab (Cuisinart's site refused our fetch); Abt's width figure was left out as implausible.",
+   "in_use_caveat": "head-up height not published"
+  },
+  {
+   "id": "ankarsrum-assistent-original",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Ankarsrum",
+   "model": "Assistent Original 7-L",
+   "model_number": "6230",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 14.2,
+    "u": "https://ankarsrum.com/us/stand-mixer/glossy-white"
+   },
+   "w": {
+    "v": 10.6,
+    "u": "https://ankarsrum.com/us/stand-mixer/glossy-white"
+   },
+   "d": {
+    "v": 15.7,
+    "u": "https://ankarsrum.com/us/stand-mixer/glossy-white"
+   },
+   "lb": {
+    "v": 19,
+    "u": "https://ankarsrum.com/us/stand-mixer/glossy-white"
+   },
+   "clear_above": false,
+   "need": 14.2,
+   "complete": false,
+   "warn": null,
+   "note": "Raised-arm height not published.",
+   "in_use_caveat": "raised-arm height not published"
+  },
+  {
+   "id": "hamilton-beach-4-qt-63391",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Hamilton Beach",
+   "model": "4-qt tilt-head",
+   "model_number": "63391",
+   "asin": "B00JR5AAYU",
+   "oos": false,
+   "h": {
+    "v": 14.5,
+    "u": "https://www.hamiltonbeach.com/4-quart-electric-stand-mixer-black-63391"
+   },
+   "w": {
+    "v": 14.4,
+    "u": "https://www.hamiltonbeach.com/4-quart-electric-stand-mixer-black-63391"
+   },
+   "d": {
+    "v": 10.9,
+    "u": "https://www.hamiltonbeach.com/4-quart-electric-stand-mixer-black-63391"
+   },
+   "clear_above": false,
+   "need": 14.5,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "head-up height not published"
+  },
+  {
+   "id": "breville-bakery-chef-bem825",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Breville",
+   "model": "the Bakery Chef 5-qt tilt-head",
+   "model_number": "BEM825",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 14.6,
+    "u": "https://www.breville.com/en-us/product/bem825"
+   },
+   "w": {
+    "v": 11.4,
+    "u": "https://www.breville.com/en-us/product/bem825"
+   },
+   "d": {
+    "v": 14.4,
+    "u": "https://www.breville.com/en-us/product/bem825"
+   },
+   "clear_above": false,
+   "need": 14.6,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "head-up height not published"
+  },
+  {
+   "id": "kitchenaid-bowl-lift-5-5-qt-ksm55",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "5.5-qt bowl-lift",
+   "model_number": "KSM55SXXX",
+   "asin": "B0G8HN99MK",
+   "oos": false,
+   "h": {
+    "v": 16.5,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-5-5-Quart-Bowl-Lift-Stand-Mixer/p/KSM55SXXXCU"
+   },
+   "w": {
+    "v": 11.3125,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-5-5-Quart-Bowl-Lift-Stand-Mixer/p/KSM55SXXXCU"
+   },
+   "d": {
+    "v": 14.625,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-5-5-Quart-Bowl-Lift-Stand-Mixer/p/KSM55SXXXCU"
+   },
+   "clear_above": false,
+   "need": 16.5,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "bowl-lift; in-use height not published"
+  },
+  {
+   "id": "kitchenaid-bowl-lift-7-qt-ksm70",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "7-qt bowl-lift",
+   "model_number": "KSM70SKXX",
+   "asin": "B0BRNWWGJ5",
+   "oos": false,
+   "h": {
+    "v": 16.5,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-7-Quart-Bowl-Lift-Stand-Mixer/p/KSM70SKXXER"
+   },
+   "w": {
+    "v": 11.3125,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-7-Quart-Bowl-Lift-Stand-Mixer/p/KSM70SKXXER"
+   },
+   "d": {
+    "v": 14.625,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/KitchenAid%C2%AE-7-Quart-Bowl-Lift-Stand-Mixer/p/KSM70SKXXER"
+   },
+   "clear_above": false,
+   "need": 16.5,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "bowl-lift; in-use height not published"
+  },
+  {
+   "id": "kitchenaid-pro-600-kp26m1x",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "Professional 600 6-qt bowl-lift",
+   "model_number": "KP26M1X",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Professional-600%E2%84%A2-Series-6-Quart-Bowl-Lift-Stand-Mixer/p/KP26M1XER"
+   },
+   "w": {
+    "v": 11.3125,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Professional-600%E2%84%A2-Series-6-Quart-Bowl-Lift-Stand-Mixer/p/KP26M1XER"
+   },
+   "d": {
+    "v": 14.625,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Professional-600%E2%84%A2-Series-6-Quart-Bowl-Lift-Stand-Mixer/p/KP26M1XER"
+   },
+   "cord": {
+    "v": 48,
+    "u": "https://www.whirlpoolportal.com/whrnarstorefront/c/Professional-600%E2%84%A2-Series-6-Quart-Bowl-Lift-Stand-Mixer/p/KP26M1XER"
+   },
+   "clear_above": false,
+   "need": 17,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "bowl-lift; in-use height not published"
+  },
+  {
+   "id": "kitchenaid-artisan-ksm150ps",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "KitchenAid",
+   "model": "Artisan 5-qt tilt-head",
+   "model_number": "KSM150PS",
+   "asin": "B0000635XA",
+   "oos": false,
+   "h": {
+    "v": 14,
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "w": {
+    "v": 9.3,
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "d": {
+    "v": 14.3,
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "work_h": {
+    "v": 17.5,
+    "what": "head raised",
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "cord": {
+    "v": 45.5,
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "lb": {
+    "v": 22,
+    "u": "https://assets.katomcdn.com/raw/upload/v1609245445/products/449/449-KSM150PSER/449-KSM150PSER.pdf"
+   },
+   "clear_above": false,
+   "need": 17.5,
+   "complete": true,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "smeg-50s-style-smf02",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Smeg",
+   "model": "50s Style 5-qt tilt-head",
+   "model_number": "SMF02",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 14.74,
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "w": {
+    "v": 15.8,
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "d": {
+    "v": 8.62,
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "work_h": {
+    "v": 19.11,
+    "what": "head raised",
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "cord": {
+    "v": 39,
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "lb": {
+    "v": 17.4,
+    "u": "https://assets.ajmadison.com/ajmadison/itemdocs/PDF_bulletin.pdf"
+   },
+   "clear_above": false,
+   "need": 19.11,
+   "complete": true,
+   "warn": null,
+   "note": "Smeg's sheet gives inch and millimetre figures that disagree slightly; we use its inch figures (its millimetre figures are a little taller).",
+   "in_use_caveat": null
+  },
+  {
+   "id": "bosch-universal-plus-mum6n10uc",
+   "cls": "stand-mixer",
+   "type": "Stand mixer",
+   "brand": "Bosch",
+   "model": "Universal Plus 6.5-qt",
+   "model_number": "MUM6N10UC",
+   "asin": null,
+   "oos": true,
+   "w": {
+    "v": 15.38,
+    "u": "https://media3.bosch-home.com/Documents/specsheet/en-US/MUM6N10UC.pdf"
+   },
+   "d": {
+    "v": 12.31,
+    "u": "https://media3.bosch-home.com/Documents/specsheet/en-US/MUM6N10UC.pdf"
+   },
+   "lb": {
+    "v": 12,
+    "u": "https://media3.bosch-home.com/Documents/specsheet/en-US/MUM6N10UC.pdf"
+   },
+   "clear_above": false,
+   "need": null,
+   "complete": false,
+   "warn": null,
+   "note": "Bosch's spec sheet gives one height, 7 15/16 in, without saying whether the bowl and lid are included, so height is left as not published.",
+   "in_use_caveat": null
+  },
+  {
+   "id": "blendtec-designer-650",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Blendtec",
+   "model": "Designer 650",
+   "model_number": "Designer 650",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 15.5,
+    "u": "https://www.blendtec.com/products/designer-650"
+   },
+   "w": {
+    "v": 7,
+    "u": "https://www.blendtec.com/products/designer-650"
+   },
+   "d": {
+    "v": 9.25,
+    "u": "https://www.blendtec.com/products/designer-650"
+   },
+   "lb": {
+    "v": 9.8,
+    "u": "https://www.blendtec.com/products/designer-650"
+   },
+   "clear_above": false,
+   "need": 15.5,
+   "complete": false,
+   "warn": null,
+   "note": "Blendtec lists one height, not labeled base-only or with jar; cord length not published.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "ninja-professional-plus-bn701",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Ninja",
+   "model": "Professional Plus with Auto-iQ",
+   "model_number": "BN701",
+   "asin": "B0855B5Z6F",
+   "oos": false,
+   "h": {
+    "v": 16.22,
+    "u": "https://www.sharkninja.ca/ninja-professional-plus-blender-with-auto-iq/BN701C.html"
+   },
+   "w": {
+    "v": 9.8,
+    "u": "https://www.sharkninja.ca/ninja-professional-plus-blender-with-auto-iq/BN701C.html"
+   },
+   "d": {
+    "v": 11.3,
+    "u": "https://www.sharkninja.ca/ninja-professional-plus-blender-with-auto-iq/BN701C.html"
+   },
+   "cord": {
+    "v": 30,
+    "u": "https://www.sharkninja.ca/ninja-professional-plus-blender-with-auto-iq/BN701C.html"
+   },
+   "lb": {
+    "v": 9.61,
+    "u": "https://www.sharkninja.ca/ninja-professional-plus-blender-with-auto-iq/BN701C.html"
+   },
+   "clear_above": false,
+   "need": 16.22,
+   "complete": false,
+   "warn": null,
+   "note": "Numbers from Ninja Canada page for BN701C (Canadian version); the US sharkninja.com page publishes no dimensions.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-ascent-a2300",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "Ascent A2300",
+   "model_number": "A2300",
+   "asin": "B01N6KK2C7",
+   "oos": false,
+   "h": {
+    "v": 17,
+    "u": "https://www.vitamix.com/us/en_us/products/a2300"
+   },
+   "cord": {
+    "v": 48,
+    "u": "https://www.vitamix.com/us/en_us/products/a2300"
+   },
+   "lb": {
+    "v": 11.86,
+    "u": "https://www.vitamix.com/us/en_us/products/a2300"
+   },
+   "clear_above": false,
+   "need": 17,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-ascent-a3500",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "Ascent A3500",
+   "model_number": "A3500",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17,
+    "u": "https://www.vitamix.com/us/en_us/products/a3500"
+   },
+   "cord": {
+    "v": 48,
+    "u": "https://www.vitamix.com/us/en_us/products/a3500"
+   },
+   "lb": {
+    "v": 14.92,
+    "u": "https://www.vitamix.com/us/en_us/products/a3500"
+   },
+   "clear_above": false,
+   "need": 17,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-ascent-x2",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "Ascent X2",
+   "model_number": "X2",
+   "asin": "B0D9ZR58T1",
+   "oos": false,
+   "h": {
+    "v": 17,
+    "u": "https://www.vitamix.com/us/en_us/products/ascent-x2"
+   },
+   "w": {
+    "v": 7.75,
+    "u": "https://www.vitamix.com/us/en_us/products/ascent-x2"
+   },
+   "d": {
+    "v": 9.75,
+    "u": "https://www.vitamix.com/us/en_us/products/ascent-x2"
+   },
+   "lb": {
+    "v": 13.6,
+    "u": "https://www.vitamix.com/us/en_us/products/ascent-x2"
+   },
+   "clear_above": false,
+   "need": 17,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix lists one dimension line (L x W x H), not labeled base-only or with container; cord length not published on the page.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-propel-510",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "Propel 510",
+   "model_number": "Propel 510",
+   "asin": "B0BWSLYK5H",
+   "oos": false,
+   "h": {
+    "v": 17.5,
+    "u": "https://www.vitamix.com/us/en_us/products/propel-series-510"
+   },
+   "cord": {
+    "v": 42,
+    "u": "https://www.vitamix.com/us/en_us/products/propel-series-510"
+   },
+   "lb": {
+    "v": 9.6,
+    "u": "https://www.vitamix.com/us/en_us/products/propel-series-510"
+   },
+   "clear_above": false,
+   "need": 17.5,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "breville-fresh-furious-bbl620",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Breville",
+   "model": "Fresh & Furious",
+   "model_number": "BBL620",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17.7,
+    "u": "https://www.breville.com/en-us/product/bbl620"
+   },
+   "w": {
+    "v": 6.9,
+    "u": "https://www.breville.com/en-us/product/bbl620"
+   },
+   "d": {
+    "v": 8.3,
+    "u": "https://www.breville.com/en-us/product/bbl620"
+   },
+   "lb": {
+    "v": 8.82,
+    "u": "https://www.breville.com/en-us/product/bbl620"
+   },
+   "clear_above": false,
+   "need": 17.7,
+   "complete": false,
+   "warn": null,
+   "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-explorian-e310",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "Explorian E310",
+   "model_number": "E310",
+   "asin": "B0758JHZM3",
+   "oos": false,
+   "h": {
+    "v": 18,
+    "u": "https://www.vitamix.com/us/en_us/products/e310"
+   },
+   "cord": {
+    "v": 54,
+    "u": "https://www.vitamix.com/us/en_us/products/e310"
+   },
+   "lb": {
+    "v": 10.5,
+    "u": "https://www.vitamix.com/us/en_us/products/e310"
+   },
+   "clear_above": false,
+   "need": 18,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "breville-super-q-bbl920",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Breville",
+   "model": "Super Q",
+   "model_number": "BBL920",
+   "asin": "B07S3XFND1",
+   "oos": false,
+   "h": {
+    "v": 18,
+    "u": "https://www.breville.com/en-us/product/bbl920"
+   },
+   "w": {
+    "v": 10.5,
+    "u": "https://www.breville.com/en-us/product/bbl920"
+   },
+   "d": {
+    "v": 8.1,
+    "u": "https://www.breville.com/en-us/product/bbl920"
+   },
+   "lb": {
+    "v": 15.48,
+    "u": "https://www.breville.com/en-us/product/bbl920"
+   },
+   "clear_above": false,
+   "need": 18,
+   "complete": false,
+   "warn": null,
+   "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "breville-the-q-bbl820",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Breville",
+   "model": "the Q",
+   "model_number": "BBL820",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 18,
+    "u": "https://www.breville.com/en-us/product/bbl820"
+   },
+   "w": {
+    "v": 10.5,
+    "u": "https://www.breville.com/en-us/product/bbl820"
+   },
+   "d": {
+    "v": 8.1,
+    "u": "https://www.breville.com/en-us/product/bbl820"
+   },
+   "lb": {
+    "v": 12.61,
+    "u": "https://www.breville.com/en-us/product/bbl820"
+   },
+   "clear_above": false,
+   "need": 18,
+   "complete": false,
+   "warn": null,
+   "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-vx1",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "VX1",
+   "model_number": "VX1",
+   "asin": "B0G6FR8V9Y",
+   "oos": false,
+   "h": {
+    "v": 19.6,
+    "u": "https://www.vitamix.com/us/en_us/products/vx1"
+   },
+   "w": {
+    "v": 7.8,
+    "u": "https://www.vitamix.com/us/en_us/products/vx1"
+   },
+   "d": {
+    "v": 9.5,
+    "u": "https://www.vitamix.com/us/en_us/products/vx1"
+   },
+   "cord": {
+    "v": 42,
+    "u": "https://www.vitamix.com/us/en_us/products/vx1"
+   },
+   "lb": {
+    "v": 12.6,
+    "u": "https://www.vitamix.com/us/en_us/products/vx1"
+   },
+   "clear_above": false,
+   "need": 19.6,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix lists one dimension line (L x W x H), not labeled base-only or with container.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "vitamix-5200",
+   "cls": "blender",
+   "type": "Blender",
+   "brand": "Vitamix",
+   "model": "5200 Standard",
+   "model_number": "5200",
+   "asin": "B008H4SLV6",
+   "oos": false,
+   "h": {
+    "v": 20.5,
+    "u": "https://www.vitamix.com/us/en_us/products/5200-standard-getting-started"
+   },
+   "cord": {
+    "v": 72,
+    "u": "https://www.vitamix.com/us/en_us/products/5200-standard-getting-started"
+   },
+   "lb": {
+    "v": 10.56,
+    "u": "https://www.vitamix.com/us/en_us/products/5200-standard-getting-started"
+   },
+   "clear_above": false,
+   "need": 20.5,
+   "complete": false,
+   "warn": null,
+   "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
+   "in_use_caveat": "not stated if the jar is included"
+  },
+  {
+   "id": "ninja-foodi-digital-air-fry-oven-sp101",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Ninja",
+   "model": "Foodi Digital Air Fry Oven (flip-up)",
+   "model_number": "SP101",
+   "asin": null,
+   "oos": true,
+   "h": {
+    "v": 7.56,
+    "u": "https://www.staples.ca/products/3075043-en-ninja-foodi-8-in-1-digital-air-fry-oven-stainless-steelblack"
+   },
+   "w": {
+    "v": 19.72,
+    "u": "https://www.staples.ca/products/3075043-en-ninja-foodi-8-in-1-digital-air-fry-oven-stainless-steelblack"
+   },
+   "d": {
+    "v": 14.96,
+    "u": "https://www.staples.ca/products/3075043-en-ninja-foodi-8-in-1-digital-air-fry-oven-stainless-steelblack"
+   },
+   "store_h": {
+    "v": 15,
+    "what": "flipped up on its back for storage",
+    "u": "https://www.officedepot.com/a/products/8370233/Ninja-Foodi-Digital-Air-Fry-Oven/"
+   },
+   "cord": {
+    "v": 36,
+    "u": "https://www.sharkninja.ca/ninja-foodi-8-in-1-digital-air-fry-oven/SP101C.html"
+   },
+   "lb": {
+    "v": 18.74,
+    "u": "https://www.sharkninja.ca/ninja-foodi-8-in-1-digital-air-fry-oven/SP101C.html"
+   },
+   "clear_above": false,
+   "need": 7.56,
+   "complete": false,
+   "warn": null,
+   "note": "Cooks lying flat; flips up on its back for storage. Sizes from Staples.ca and Office Depot spec tabs, which list 19.72 L x 14.96 W; we show L as width. Cord and weight from SharkNinja Canada (SP101C).",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "chefman-easyair-15-qt-toaster-oven-rj50-15t",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Chefman",
+   "model": "EasyAir 15 Qt Toaster Oven Air Fryer",
+   "model_number": "RJ50-15T",
+   "asin": "B0DB2HD138",
+   "oos": false,
+   "h": {
+    "v": 11.4,
+    "u": "https://chefman.com/products/easyair-15-qt-toaster-oven-air-fryer-black"
+   },
+   "clear": {
+    "v": 2,
+    "what": "from the wall and other objects",
+    "u": "https://cdn.shopify.com/s/files/1/0576/5755/7158/files/RJ50-15T_UG_DIGITAL_060624.pdf"
+   },
+   "lb": {
+    "v": 19.75,
+    "u": "https://chefman.com/products/easyair-15-qt-toaster-oven-air-fryer-black"
+   },
+   "clear_above": false,
+   "need": 11.4,
+   "complete": false,
+   "warn": null,
+   "note": "maker lists 15 x 16.8 x 11.4 in without saying which of the first two is width or depth",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "cuisinart-chefs-convection-toaster-oven-tob-260n1",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Cuisinart",
+   "model": "Chef's Convection Toaster Oven",
+   "model_number": "TOB-260N1",
+   "asin": "B01M0AWSJX",
+   "oos": false,
+   "h": {
+    "v": 11.42,
+    "u": "https://www.abt.com/Cuisinart-Chefs-Stainless-Steel-Convection-Toaster-Oven-TOB260N1/p/105549.html"
+   },
+   "clear": {
+    "v": 2,
+    "what": "from the wall and items on the counter",
+    "u": "https://www.cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1747991274521//Instruction%20Booklet/TOB-260N1C.pdf"
+   },
+   "clear_above": false,
+   "need": 11.42,
+   "complete": false,
+   "warn": {
+    "who": "Cuisinart's Canadian manual for the TOB-260N1C",
+    "q": "Do not operate under wall cabinets",
+    "u": "https://www.cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1747991274521//Instruction%20Booklet/TOB-260N1C.pdf"
+   },
+   "note": "Height from Abt's spec tab; width and depth left out because the figures are not labelled.",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "cuisinart-compact-airfryer-toaster-oven-toa-26",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Cuisinart",
+   "model": "Compact AirFryer Toaster Oven",
+   "model_number": "TOA-26",
+   "asin": "B09GL56L4T",
+   "oos": false,
+   "h": {
+    "v": 11.5,
+    "u": "https://www.abt.com/Cuisinart-Stainless-Steel-Compact-Air-Fryer-Toaster-Oven-TOA26/p/171824.html"
+   },
+   "w": {
+    "v": 15.5,
+    "u": "https://www.abt.com/Cuisinart-Stainless-Steel-Compact-Air-Fryer-Toaster-Oven-TOA26/p/171824.html"
+   },
+   "d": {
+    "v": 12.5,
+    "u": "https://www.abt.com/Cuisinart-Stainless-Steel-Compact-Air-Fryer-Toaster-Oven-TOA26/p/171824.html"
+   },
+   "lb": {
+    "v": 20,
+    "u": "https://www.abt.com/Cuisinart-Stainless-Steel-Compact-Air-Fryer-Toaster-Oven-TOA26/p/171824.html"
+   },
+   "clear_above": false,
+   "need": 11.5,
+   "complete": false,
+   "warn": null,
+   "note": "Sizes and weight from Abt's spec tab (Cuisinart's site refused our fetch).",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "our-place-wonder-oven",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Our Place",
+   "model": "Wonder Oven",
+   "model_number": "Wonder Oven",
+   "asin": "B0CLTKGWQX",
+   "oos": false,
+   "h": {
+    "v": 11.6,
+    "u": "https://fromourplace.com/products/wonder-oven"
+   },
+   "w": {
+    "v": 11.5,
+    "u": "https://fromourplace.com/products/wonder-oven"
+   },
+   "d": {
+    "v": 10.6,
+    "u": "https://fromourplace.com/products/wonder-oven"
+   },
+   "lb": {
+    "v": 11.6,
+    "u": "https://fromourplace.com/products/wonder-oven"
+   },
+   "clear_above": false,
+   "need": 11.6,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "cuisinart-airfryer-toaster-oven-grill-toa-70",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Cuisinart",
+   "model": "AirFryer Toaster Oven with Grill",
+   "model_number": "TOA-70",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 13.75,
+    "u": "https://www.abt.com/Cuisinart-Air-Fryer-Toaster-Oven-w-Grill-in-White-TOA70WNAS/p/238537.html"
+   },
+   "w": {
+    "v": 15.75,
+    "u": "https://www.abt.com/Cuisinart-Air-Fryer-Toaster-Oven-w-Grill-in-White-TOA70WNAS/p/238537.html"
+   },
+   "d": {
+    "v": 12.25,
+    "u": "https://www.abt.com/Cuisinart-Air-Fryer-Toaster-Oven-w-Grill-in-White-TOA70WNAS/p/238537.html"
+   },
+   "clear": {
+    "v": 2,
+    "what": "from the wall and objects on the counter",
+    "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728119420384//Instruction%20Booklet/toa70c_en.pdf"
+   },
+   "lb": {
+    "v": 25.6,
+    "u": "https://www.abt.com/Cuisinart-Air-Fryer-Toaster-Oven-w-Grill-in-White-TOA70WNAS/p/238537.html"
+   },
+   "clear_above": false,
+   "need": 13.75,
+   "complete": false,
+   "warn": {
+    "who": "Cuisinart's Canadian manual for the TOA-70C",
+    "q": "Do not operate under wall cabinets",
+    "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728119420384//Instruction%20Booklet/toa70c_en.pdf"
+   },
+   "note": "Sizes and weight from Abt's spec tab (Cuisinart's site refused our fetch); placement line from Cuisinart's Canadian TOA-70C manual.",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "breville-smart-oven-air-fryer-bov860",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Breville",
+   "model": "Smart Oven Air Fryer",
+   "model_number": "BOV860",
+   "asin": "B085FTBLC6",
+   "oos": false,
+   "h": {
+    "v": 10.9,
+    "u": "https://www.breville.com/en-us/product/bov860"
+   },
+   "w": {
+    "v": 18.9,
+    "u": "https://www.breville.com/en-us/product/bov860"
+   },
+   "d": {
+    "v": 15.9,
+    "u": "https://www.breville.com/en-us/product/bov860"
+   },
+   "clear": {
+    "v": 6,
+    "what": "above the top",
+    "u": "https://assets.breville.com/Instruction-Booklets/USCM/BOV860_USCM_IB_N21_FA_WEB.pdf"
+   },
+   "lb": {
+    "v": 28.66,
+    "u": "https://www.breville.com/en-us/product/bov860"
+   },
+   "clear_above": true,
+   "need": 16.9,
+   "complete": true,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "breville-smart-oven-pro-bov845",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Breville",
+   "model": "Smart Oven Pro",
+   "model_number": "BOV845",
+   "asin": "B00XBOXVIA",
+   "oos": false,
+   "h": {
+    "v": 10.9,
+    "u": "https://www.breville.com/en-us/product/bov845"
+   },
+   "w": {
+    "v": 18.9,
+    "u": "https://www.breville.com/en-us/product/bov845"
+   },
+   "d": {
+    "v": 15.9,
+    "u": "https://www.breville.com/en-us/product/bov845"
+   },
+   "clear": {
+    "v": 6,
+    "what": "above the top",
+    "u": "https://assets.breville.com/Instruction-Booklets/USCM/BOV845_USCM_IB_2020.pdf"
+   },
+   "lb": {
+    "v": 22.8,
+    "u": "https://www.breville.com/en-us/product/bov845"
+   },
+   "clear_above": true,
+   "need": 16.9,
+   "complete": true,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "ninja-combi-sfp701",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Ninja",
+   "model": "Combi All-in-One Multicooker, Oven and Air Fryer",
+   "model_number": "SFP701",
+   "asin": "B0C8WN349L",
+   "oos": false,
+   "h": {
+    "v": 16.93,
+    "u": "https://www.ninjakitchen.com/products/ninja-combi-all-in-one-multicooker-oven-and-air-fryer-zidSFP701"
+   },
+   "w": {
+    "v": 17.13,
+    "u": "https://www.ninjakitchen.com/products/ninja-combi-all-in-one-multicooker-oven-and-air-fryer-zidSFP701"
+   },
+   "d": {
+    "v": 18.31,
+    "u": "https://www.ninjakitchen.com/products/ninja-combi-all-in-one-multicooker-oven-and-air-fryer-zidSFP701"
+   },
+   "cord": {
+    "v": 34,
+    "u": "https://www.ninjakitchen.com/products/ninja-combi-all-in-one-multicooker-oven-and-air-fryer-zidSFP701"
+   },
+   "lb": {
+    "v": 24.16,
+    "u": "https://www.ninjakitchen.com/products/ninja-combi-all-in-one-multicooker-oven-and-air-fryer-zidSFP701"
+   },
+   "clear_above": false,
+   "need": 16.93,
+   "complete": false,
+   "warn": null,
+   "note": "maker lists 18.31 in L x 17.13 in W; depth taken as the L figure",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "breville-smart-oven-air-fryer-pro-bov900",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "Breville",
+   "model": "Smart Oven Air Fryer Pro",
+   "model_number": "BOV900",
+   "asin": "B01N5UPTZS",
+   "oos": false,
+   "h": {
+    "v": 12.7,
+    "u": "https://www.breville.com/en-us/product/bov900"
+   },
+   "w": {
+    "v": 21.4,
+    "u": "https://www.breville.com/en-us/product/bov900"
+   },
+   "d": {
+    "v": 17.3,
+    "u": "https://www.breville.com/en-us/product/bov900"
+   },
+   "clear": {
+    "v": 6,
+    "what": "above the top",
+    "u": "https://assets.breville.com/BOV900/BOV900_USCM_IB_Rv1.pdf"
+   },
+   "lb": {
+    "v": 38.89,
+    "u": "https://www.breville.com/en-us/product/bov900"
+   },
+   "clear_above": true,
+   "need": 18.7,
+   "complete": true,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "black-decker-crisp-n-bake-french-door-to62d5",
+   "cls": "toaster-oven",
+   "type": "Toaster oven",
+   "brand": "BLACK+DECKER",
+   "model": "Crisp 'N Bake French Door Air Fryer Oven",
+   "model_number": "TO62D5-1SD",
+   "asin": "B0CXF9LRQK",
+   "oos": false,
+   "h": {
+    "v": 14.17,
+    "u": "https://blackanddeckerappliances.com/products/crisp-n-bake-french-door-air-fryer-oven"
+   },
+   "w": {
+    "v": 16.85,
+    "u": "https://blackanddeckerappliances.com/products/crisp-n-bake-french-door-air-fryer-oven"
+   },
+   "d": {
+    "v": 16.77,
+    "u": "https://blackanddeckerappliances.com/products/crisp-n-bake-french-door-air-fryer-oven"
+   },
+   "clear": {
+    "v": 5,
+    "what": "above, behind and on the sides",
+    "u": "https://cdn.shopify.com/s/files/1/0613/0266/9421/files/TO62D5-1SD_Use_and_Care_Manual.pdf"
+   },
+   "lb": {
+    "v": 16.02,
+    "u": "https://blackanddeckerappliances.com/products/crisp-n-bake-french-door-air-fryer-oven"
+   },
+   "clear_above": true,
+   "need": 19.17,
+   "complete": true,
+   "warn": {
+    "who": "BLACK+DECKER's TO62D5 use and care manual",
+    "q": "Do not operate the appliance in an enclosed space or under hanging cabinets",
+    "u": "https://cdn.shopify.com/s/files/1/0613/0266/9421/files/TO62D5-1SD_Use_and_Care_Manual.pdf"
+   },
+   "note": "Depth is the maker's listed Length.",
+   "in_use_caveat": null
+  },
+  {
+   "id": "chefman-indoor-pizza-oven-rj25-po12",
+   "cls": "pizza-oven",
+   "type": "Pizza oven",
+   "brand": "Chefman",
+   "model": "High-Heat Indoor Electric Pizza Oven 800F",
+   "model_number": "RJ25-PO12-SS",
+   "asin": null,
+   "oos": true,
+   "h": {
+    "v": 10.94,
+    "u": "https://chefman.com/products/indoor-electric-pizza-oven"
+   },
+   "lb": {
+    "v": 23.32,
+    "u": "https://chefman.com/products/indoor-electric-pizza-oven"
+   },
+   "clear_above": false,
+   "need": 10.94,
+   "complete": false,
+   "warn": null,
+   "note": "maker lists 18.7 x 17 x 10.94 in without labeling width vs depth; manual asks for room for ventilation on all sides but gives no figure",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "cuisinart-indoor-pizza-oven-cpz-120",
+   "cls": "pizza-oven",
+   "type": "Pizza oven",
+   "brand": "Cuisinart",
+   "model": "Indoor Pizza Oven",
+   "model_number": "CPZ-120",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 11,
+    "u": "https://www.everythingkitchens.com/cuisinart-oven-style-indoor-pizza.html"
+   },
+   "w": {
+    "v": 19,
+    "u": "https://www.everythingkitchens.com/cuisinart-oven-style-indoor-pizza.html"
+   },
+   "d": {
+    "v": 17.5,
+    "u": "https://www.everythingkitchens.com/cuisinart-oven-style-indoor-pizza.html"
+   },
+   "clear": {
+    "v": 2,
+    "what": "from the wall and objects on the counter",
+    "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728378187109//Instruction%20Booklet/cpz120c_ib_en.pdf"
+   },
+   "clear_above": false,
+   "need": 11,
+   "complete": false,
+   "warn": {
+    "who": "Cuisinart's Canadian manual for the CPZ-120C",
+    "q": "Do not operate under wall cabinets",
+    "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728378187109//Instruction%20Booklet/cpz120c_ib_en.pdf"
+   },
+   "note": "Sizes from Everything Kitchens' spec tab (Cuisinart's site refused our fetch); depth is the listed Length.",
+   "in_use_caveat": "clearance above not published"
+  },
+  {
+   "id": "ooni-volt-2",
+   "cls": "pizza-oven",
+   "type": "Pizza oven",
+   "brand": "Ooni",
+   "model": "Volt 2 Electric Pizza Oven",
+   "model_number": "Volt 2",
+   "asin": "B0GH8VS72W",
+   "oos": false,
+   "h": {
+    "v": 10.4,
+    "u": "https://ooni.com/products/ooni-volt-2"
+   },
+   "clear": {
+    "v": 6,
+    "what": "above the top",
+    "u": "https://cdn.brandfolder.io/54G1NFTL/at/f3pxsngpxv7vmfpgmnt4nb9b/Volt_2_Manual_Digital_Version.pdf"
+   },
+   "lb": {
+    "v": 38.8,
+    "u": "https://ooni.com/products/ooni-volt-2"
+   },
+   "clear_above": true,
+   "need": 16.4,
+   "complete": true,
+   "warn": null,
+   "note": "Ooni lists 21.5 x 17.4 x 10.4 in without labelling width and depth.",
+   "in_use_caveat": null
+  },
+  {
+   "id": "breville-pizzaiolo-bpz820",
+   "cls": "pizza-oven",
+   "type": "Pizza oven",
+   "brand": "Breville",
+   "model": "the Smart Oven Pizzaiolo",
+   "model_number": "BPZ820",
+   "asin": "B08R8YZR32",
+   "oos": false,
+   "h": {
+    "v": 10.6,
+    "u": "https://www.breville.com/en-us/product/bpz820"
+   },
+   "w": {
+    "v": 18.1,
+    "u": "https://www.breville.com/en-us/product/bpz820"
+   },
+   "d": {
+    "v": 18.5,
+    "u": "https://www.breville.com/en-us/product/bpz820"
+   },
+   "clear": {
+    "v": 6,
+    "what": "above the top",
+    "u": "https://assets.breville.com/BPZ820/BPZ820_USC_IB_K26_LR.pdf"
+   },
+   "lb": {
+    "v": 33.07,
+    "u": "https://www.breville.com/en-us/product/bpz820"
+   },
+   "clear_above": true,
+   "need": 16.6,
+   "complete": true,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "typhur-fast-nugget-ice-maker",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "Typhur",
+   "model": "Fast Nugget Ice Maker",
+   "model_number": "CM03P/CM04P",
+   "asin": "B0FNCXMBBG",
+   "oos": false,
+   "h": {
+    "v": 12.09,
+    "u": "https://www.typhur.com/products/fast-nugget-ice-maker"
+   },
+   "w": {
+    "v": 9.69,
+    "u": "https://www.typhur.com/products/fast-nugget-ice-maker"
+   },
+   "d": {
+    "v": 12.09,
+    "u": "https://www.typhur.com/products/fast-nugget-ice-maker"
+   },
+   "clear": {
+    "v": 6,
+    "what": "sides and back",
+    "u": "https://cdn.shopify.com/s/files/1/0560/3599/9767/files/Fast_Nugget_Ice_Maker_Wi-Fi_Version_User_Manual.pdf"
+   },
+   "clear_above": false,
+   "need": 12.09,
+   "complete": false,
+   "warn": null,
+   "note": "Sizes are for the Wi-Fi version sold on typhur.com.",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "silonn-slim17b",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "Silonn",
+   "model": "Nugget Ice Maker 33 lb",
+   "model_number": "SLIM17B",
+   "asin": "B0HHGXNT6J",
+   "oos": false,
+   "h": {
+    "v": 14.5,
+    "u": "https://www.silonn.com/products/countertop-nugget-ice-maker-33-lbs"
+   },
+   "w": {
+    "v": 12.5,
+    "u": "https://www.silonn.com/products/countertop-nugget-ice-maker-33-lbs"
+   },
+   "d": {
+    "v": 9.9,
+    "u": "https://www.silonn.com/products/countertop-nugget-ice-maker-33-lbs"
+   },
+   "lb": {
+    "v": 21.6,
+    "u": "https://www.silonn.com/products/countertop-nugget-ice-maker-33-lbs"
+   },
+   "clear_above": false,
+   "need": 14.5,
+   "complete": false,
+   "warn": null,
+   "note": "Silonn page also lists unlabeled dimensions 12.83 x 14.88 x 10.12; the labeled W x D x H line is used",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "ge-profile-opal-mini-p4nm20",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "GE Profile",
+   "model": "Opal Mini",
+   "model_number": "P4NM20BZLG",
+   "asin": "B0H51ZX6SB",
+   "oos": false,
+   "h": {
+    "v": 14.56,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "w": {
+    "v": 8.6,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "d": {
+    "v": 15.6,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "clear": {
+    "v": 0,
+    "what": "above the top",
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "cord": {
+    "v": 72,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "lb": {
+    "v": 27,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Nugget-Ice-Maker-P4NM20BZLG"
+   },
+   "clear_above": true,
+   "need": 14.56,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "ge-profile-opal-mini-pro-p4nm25",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "GE Profile",
+   "model": "Opal Mini Pro with side tank",
+   "model_number": "P4NM25PZSG",
+   "asin": "B0H525C38N",
+   "oos": false,
+   "h": {
+    "v": 14.56,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "w": {
+    "v": 11.6,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "d": {
+    "v": 15.6,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "clear": {
+    "v": 0,
+    "what": "above the top",
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "cord": {
+    "v": 72,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "lb": {
+    "v": 28,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-Mini-Pro-Nugget-Ice-Maker-with-Side-Tank-P4NM25PZSG"
+   },
+   "clear_above": true,
+   "need": 14.56,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "ge-profile-opal-2-0-xpio23",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "GE Profile",
+   "model": "Opal 2.0",
+   "model_number": "XPIO23SCSS",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 16.5,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-XPIO23SCSS"
+   },
+   "w": {
+    "v": 10.5,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-XPIO23SCSS"
+   },
+   "d": {
+    "v": 17.5,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-XPIO23SCSS"
+   },
+   "clear": {
+    "v": 0,
+    "what": "above the top",
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-XPIO23SCSS"
+   },
+   "lb": {
+    "v": 35.1,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-XPIO23SCSS"
+   },
+   "clear_above": true,
+   "need": 16.5,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "ge-profile-opal-2-0-side-tank-xpio13",
+   "cls": "ice-maker",
+   "type": "Nugget ice maker",
+   "brand": "GE Profile",
+   "model": "Opal 2.0 with side tank",
+   "model_number": "XPIO13SCSS",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 16.5,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-with-Side-Tank-XPIO13SCSS"
+   },
+   "w": {
+    "v": 13.43,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-with-Side-Tank-XPIO13SCSS"
+   },
+   "d": {
+    "v": 17.5,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-with-Side-Tank-XPIO13SCSS"
+   },
+   "clear": {
+    "v": 0,
+    "what": "above the top",
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-with-Side-Tank-XPIO13SCSS"
+   },
+   "lb": {
+    "v": 37.65,
+    "u": "https://www.geappliances.com/appliance/GE-Profile-Opal-2-0-Nugget-Ice-Maker-with-Side-Tank-XPIO13SCSS"
+   },
+   "clear_above": true,
+   "need": 16.5,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "hamilton-beach-29982",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Hamilton Beach",
+   "model": "2 lb Digital Bread Maker",
+   "model_number": "29982",
+   "asin": "B0BLXGJ27V",
+   "oos": false,
+   "h": {
+    "v": 11.2,
+    "u": "https://hamiltonbeach.com/2lb-bread-maker-black-29982"
+   },
+   "w": {
+    "v": 11.4,
+    "u": "https://hamiltonbeach.com/2lb-bread-maker-black-29982"
+   },
+   "d": {
+    "v": 13.9,
+    "u": "https://hamiltonbeach.com/2lb-bread-maker-black-29982"
+   },
+   "clear_above": false,
+   "need": 11.2,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "zojirushi-home-bakery-mini-bb-hac10",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Zojirushi",
+   "model": "Home Bakery Mini 1-lb",
+   "model_number": "BB-HAC10",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 12.25,
+    "u": "https://store.zojirushi.com/products/bbhac"
+   },
+   "w": {
+    "v": 8.5,
+    "u": "https://store.zojirushi.com/products/bbhac"
+   },
+   "d": {
+    "v": 11.25,
+    "u": "https://store.zojirushi.com/products/bbhac"
+   },
+   "clear_above": false,
+   "need": 12.25,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "zojirushi-virtuoso-plus-bb-pdc20",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Zojirushi",
+   "model": "Home Bakery Virtuoso Plus",
+   "model_number": "BB-PDC20",
+   "asin": "B07BQ28TQ6",
+   "oos": false,
+   "h": {
+    "v": 12.875,
+    "u": "https://store.zojirushi.com/products/bbpdc"
+   },
+   "w": {
+    "v": 18,
+    "u": "https://store.zojirushi.com/products/bbpdc"
+   },
+   "d": {
+    "v": 10.5,
+    "u": "https://store.zojirushi.com/products/bbpdc"
+   },
+   "clear_above": false,
+   "need": 12.875,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "zojirushi-virtuoso-plus-bb-ppc20",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Zojirushi",
+   "model": "Home Bakery Virtuoso Plus (2026)",
+   "model_number": "BB-PPC20",
+   "asin": "B0GMP87TV6",
+   "oos": false,
+   "h": {
+    "v": 12.875,
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "w": {
+    "v": 18,
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "d": {
+    "v": 10.5,
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "clear": {
+    "v": 2,
+    "what": "from walls or furniture",
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "cord": {
+    "v": 39,
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "lb": {
+    "v": 24,
+    "u": "https://cdn.shopify.com/s/files/1/0348/3467/7900/files/BBPPC_en.pdf?v=1781301745"
+   },
+   "clear_above": false,
+   "need": 12.875,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "breville-custom-loaf-bbm800xl",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Breville",
+   "model": "the Custom Loaf",
+   "model_number": "BBM800XL",
+   "asin": "B004RCNJA0",
+   "oos": false,
+   "h": {
+    "v": 13.3,
+    "u": "https://www.breville.com/en-us/product/bbm800"
+   },
+   "w": {
+    "v": 16.4,
+    "u": "https://www.breville.com/en-us/product/bbm800"
+   },
+   "d": {
+    "v": 9.6,
+    "u": "https://www.breville.com/en-us/product/bbm800"
+   },
+   "clear": {
+    "v": 4,
+    "what": "both sides",
+    "u": "https://www.breville.com/content/dam/breville/ca/assets/miscellaneous/instruction-manual/ovens/BBM800-instruction-manual.pdf"
+   },
+   "lb": {
+    "v": 16.84,
+    "u": "https://www.breville.com/en-us/product/bbm800"
+   },
+   "clear_above": false,
+   "need": 13.3,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "zojirushi-maestro-bb-ssc10",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Zojirushi",
+   "model": "Home Bakery Maestro 1-lb",
+   "model_number": "BB-SSC10",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 13.625,
+    "u": "https://store.zojirushi.com/products/bbssc"
+   },
+   "w": {
+    "v": 8.875,
+    "u": "https://store.zojirushi.com/products/bbssc"
+   },
+   "d": {
+    "v": 12.5,
+    "u": "https://store.zojirushi.com/products/bbssc"
+   },
+   "clear_above": false,
+   "need": 13.625,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "panasonic-sd-r2550",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Panasonic",
+   "model": "Artisan-style Automatic Bread Maker",
+   "model_number": "SD-R2550",
+   "asin": "B0B6GPNQBN",
+   "oos": false,
+   "h": {
+    "v": 14.3,
+    "u": "https://shop.panasonic.com/products/automatic-bread-maker-with-20-presets"
+   },
+   "w": {
+    "v": 16,
+    "u": "https://shop.panasonic.com/products/automatic-bread-maker-with-20-presets"
+   },
+   "d": {
+    "v": 9.9,
+    "u": "https://shop.panasonic.com/products/automatic-bread-maker-with-20-presets"
+   },
+   "lb": {
+    "v": 16.5,
+    "u": "https://shop.panasonic.com/products/automatic-bread-maker-with-20-presets"
+   },
+   "clear_above": false,
+   "need": 14.3,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "lid-open height not published"
+  },
+  {
+   "id": "cuisinart-compact-cbk-110",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Cuisinart",
+   "model": "Compact Automatic Bread Maker",
+   "model_number": "CBK-110",
+   "asin": "B07C8V4FDR",
+   "oos": false,
+   "clear": {
+    "v": 2,
+    "what": "from any wall or object",
+    "u": "https://images.salsify.com/images/949ec838681c860174a46a604e4ad3eb47eb4371/CBK-110.pdf"
+   },
+   "clear_above": false,
+   "need": null,
+   "complete": false,
+   "warn": {
+    "who": "Cuisinart's CBK-110 manual",
+    "q": "[D]o not operate your appliance in an appliance garage or under a wall cabinet",
+    "u": "https://images.salsify.com/images/949ec838681c860174a46a604e4ad3eb47eb4371/CBK-110.pdf"
+   },
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "cuisinart-convection-cbk-210",
+   "cls": "bread-machine",
+   "type": "Bread machine",
+   "brand": "Cuisinart",
+   "model": "Custom Convection Bread Maker",
+   "model_number": "CBK-210",
+   "asin": null,
+   "oos": false,
+   "clear": {
+    "v": 2,
+    "what": "from any wall or object",
+    "u": "https://images.salsify.com/images/f836d5d3833a45efc1d070ee77d63191f6652963/CBK-210.pdf"
+   },
+   "clear_above": false,
+   "need": null,
+   "complete": false,
+   "warn": {
+    "who": "Cuisinart's CBK-210 manual",
+    "q": "Do not operate your appliance in an appliance garage or under a wall cabinet",
+    "u": "https://images.salsify.com/images/f836d5d3833a45efc1d070ee77d63191f6652963/CBK-210.pdf"
+   },
+   "note": "",
+   "in_use_caveat": null
+  },
+  {
+   "id": "black-decker-bcd6w",
+   "cls": "dishwasher",
+   "type": "Countertop dishwasher",
+   "brand": "BLACK+DECKER",
+   "model": "6-place compact countertop dishwasher",
+   "model_number": "BCD6W",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 16.9,
+    "u": "https://www.blackanddecker.com/products/bcd6w"
+   },
+   "w": {
+    "v": 21.7,
+    "u": "https://www.blackanddecker.com/products/bcd6w"
+   },
+   "d": {
+    "v": 19.5,
+    "u": "https://www.blackanddecker.com/products/bcd6w"
+   },
+   "lb": {
+    "v": 46.2,
+    "u": "https://www.blackanddecker.com/products/bcd6w"
+   },
+   "clear_above": false,
+   "need": 16.9,
+   "complete": false,
+   "warn": null,
+   "note": "maker page labels front-to-back size as Length",
+   "in_use_caveat": "in-use clearance not published"
+  },
+  {
+   "id": "midea-mdc17p0abb",
+   "cls": "dishwasher",
+   "type": "Countertop dishwasher",
+   "brand": "Midea",
+   "model": "17-inch portable countertop dishwasher",
+   "model_number": "MDC17P0ABB",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17.2,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-17in-Portable-Countertop-Dishwasher-Black-MDC17P0ABB"
+   },
+   "w": {
+    "v": 17.1,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-17in-Portable-Countertop-Dishwasher-Black-MDC17P0ABB"
+   },
+   "d": {
+    "v": 16.5,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-17in-Portable-Countertop-Dishwasher-Black-MDC17P0ABB"
+   },
+   "lb": {
+    "v": 36.6,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-17in-Portable-Countertop-Dishwasher-Black-MDC17P0ABB"
+   },
+   "clear_above": false,
+   "need": 17.2,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "in-use clearance not published"
+  },
+  {
+   "id": "midea-mdc22p1aww",
+   "cls": "dishwasher",
+   "type": "Countertop dishwasher",
+   "brand": "Midea",
+   "model": "22-inch portable countertop dishwasher",
+   "model_number": "MDC22P1AWW",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17.2,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-22in-Portable-Countertop-Dishwasher-White-MDC22P1AWW"
+   },
+   "w": {
+    "v": 21.7,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-22in-Portable-Countertop-Dishwasher-White-MDC22P1AWW"
+   },
+   "d": {
+    "v": 19.7,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-22in-Portable-Countertop-Dishwasher-White-MDC22P1AWW"
+   },
+   "lb": {
+    "v": 46,
+    "u": "https://www.midea.com/us/dishwashers/counter-top/Midea-22in-Portable-Countertop-Dishwasher-White-MDC22P1AWW"
+   },
+   "clear_above": false,
+   "need": 17.2,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "in-use clearance not published"
+  },
+  {
+   "id": "danby-ddw631sdb",
+   "cls": "dishwasher",
+   "type": "Countertop dishwasher",
+   "brand": "Danby",
+   "model": "6-place countertop dishwasher",
+   "model_number": "DDW631SDB",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17.25,
+    "u": "https://www.danby.com/en-us/shop/ddw631sdb/"
+   },
+   "w": {
+    "v": 21.65,
+    "u": "https://www.danby.com/en-us/shop/ddw631sdb/"
+   },
+   "d": {
+    "v": 20.65,
+    "u": "https://www.danby.com/en-us/shop/ddw631sdb/"
+   },
+   "lb": {
+    "v": 44.09,
+    "u": "https://www.danby.com/en-us/shop/ddw631sdb/"
+   },
+   "clear_above": false,
+   "need": 17.25,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "in-use clearance not published"
+  },
+  {
+   "id": "midea-mdc17p2bww",
+   "cls": "dishwasher",
+   "type": "Countertop dishwasher",
+   "brand": "Midea",
+   "model": "17-inch countertop dishwasher with built-in water tank",
+   "model_number": "MDC17P2BWW",
+   "asin": null,
+   "oos": false,
+   "h": {
+    "v": 17.6,
+    "u": "https://www.midea.com/us/store/dishwashers/counter-top/midea-17-portable-countertop-dishwasher-built-in-water-tank.mdc17p2bww"
+   },
+   "w": {
+    "v": 16.5,
+    "u": "https://www.midea.com/us/store/dishwashers/counter-top/midea-17-portable-countertop-dishwasher-built-in-water-tank.mdc17p2bww"
+   },
+   "d": {
+    "v": 17.6,
+    "u": "https://www.midea.com/us/store/dishwashers/counter-top/midea-17-portable-countertop-dishwasher-built-in-water-tank.mdc17p2bww"
+   },
+   "lb": {
+    "v": 39.6,
+    "u": "https://www.midea.com/us/store/dishwashers/counter-top/midea-17-portable-countertop-dishwasher-built-in-water-tank.mdc17p2bww"
+   },
+   "clear_above": false,
+   "need": 17.6,
+   "complete": false,
+   "warn": null,
+   "note": "",
+   "in_use_caveat": "in-use clearance not published"
+  }
+ ]
+}

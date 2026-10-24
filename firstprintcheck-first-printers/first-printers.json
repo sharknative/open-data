@@ -1,0 +1,549 @@
+{
+ "_readme": "FirstPrintCheck first-printer data, as of 2026-10-23. One record per beginner printer already ranked on a firstprintcheck.com comparison page (pages = the comparison slugs). Every non-empty spec cell carries the maker page it came from (src) and the exact phrase on that page (quote); cite_html repeats the pair for the quote checker. null = not on the maker page we read. Prices are not stored here: the tool page prints Amazon's dated price at build time.",
+ "asOf": "2026-10-23",
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "credit": "https://firstprintcheck.com/tools/first-printer-picker/",
+ "fields": {
+  "enclosed": "Maker-stated enclosure",
+  "build": "Build volume W x D x H",
+  "footprint": "Printer footprint W x D x H",
+  "nozzle": "Max nozzle temperature",
+  "bed": "Max bed temperature",
+  "abs": "What the maker says about ABS",
+  "multicolor": "Multicolor option the maker sells",
+  "noise": "Maker-stated noise",
+  "local": "Maker-stated local network (LAN) mode"
+ },
+ "printers": [
+  {
+   "id": "bambu-a1-mini",
+   "brand": "Bambu Lab",
+   "model": "A1 mini",
+   "asin": "B0GQMJ8QQT",
+   "pages": [
+    "bambu-a1-mini-vs-a1-vs-p1s-small-space",
+    "best-3d-printers-under-500",
+    "best-3d-printer-for-school-classroom",
+    "first-3d-printer-gift-for-kids-10-14-under-300",
+    "200-vs-400-dollar-first-3d-printer-which-to-buy"
+   ],
+   "enclosedYes": false,
+   "multicolorYes": true,
+   "enclosed": null,
+   "build": {
+    "value": "180 x 180 x 180",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/a1-mini/tech-specs",
+    "quote": "Build Volume: 180mm*180mm*180mm"
+   },
+   "footprint": {
+    "value": "347 x 315 x 365",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/a1-mini/tech-specs",
+    "quote": "Dimensions: 347mm*315mm*365mm"
+   },
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://bambulab.com/en/a1-mini/tech-specs",
+    "quote": "Max Hot End Temperature: 300 ℃"
+   },
+   "bed": {
+    "value": 80,
+    "unit": "C",
+    "src": "https://bambulab.com/en/a1-mini/tech-specs",
+    "quote": "Max Build Plate Temperature: 80 ℃"
+   },
+   "abs": {
+    "value": "ABS and ASA not recommended",
+    "unit": "",
+    "src": "https://bambulab.com/en/a1-mini/tech-specs",
+    "quote": "ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer: Not Recommended"
+   },
+   "multicolor": {
+    "value": "AMS lite (add-on)",
+    "unit": "",
+    "src": "https://bambulab.com/en/a1-mini",
+    "quote": "The all-new AMS lite is elegant and reliable, making multi-color 3D printing accessible to everyone."
+   },
+   "noise": {
+    "value": "under 48 (Silent Mode)",
+    "unit": "dB",
+    "src": "https://bambulab.com/en/a1-mini",
+    "quote": "Silent Mode can bring down the noise level to under 48 dB"
+   },
+   "local": {
+    "value": "LAN Mode",
+    "unit": "",
+    "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
+    "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
+   }
+  },
+  {
+   "id": "bambu-a1",
+   "brand": "Bambu Lab",
+   "model": "A1",
+   "asin": "B0D17TMWFB",
+   "pages": [
+    "bambu-a1-mini-vs-a1-vs-p1s-small-space",
+    "best-3d-printers-under-500",
+    "200-vs-400-dollar-first-3d-printer-which-to-buy",
+    "elegoo-centauri-carbon-vs-bambu-a1-no-cloud"
+   ],
+   "enclosedYes": false,
+   "multicolorYes": true,
+   "enclosed": null,
+   "build": {
+    "value": "256 x 256 x 256",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/a1/tech-specs",
+    "quote": "Build Volume: 256mm*256mm*256mm"
+   },
+   "footprint": {
+    "value": "465 x 410 x 430",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/a1/tech-specs",
+    "quote": "Dimensions: 465mm*410mm*430mm"
+   },
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://bambulab.com/en/a1/tech-specs",
+    "quote": "Max Hot End Temperature: 300 ℃"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://bambulab.com/en/a1/tech-specs",
+    "quote": "Max Build Plate Temperature: 100 ℃"
+   },
+   "abs": {
+    "value": "ABS and ASA not recommended",
+    "unit": "",
+    "src": "https://bambulab.com/en/a1/tech-specs",
+    "quote": "ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer: Not Recommended"
+   },
+   "multicolor": {
+    "value": "AMS lite (add-on)",
+    "unit": "",
+    "src": "https://bambulab.com/en/a1",
+    "quote": "The all-new AMS lite is elegant and reliable, making multi-color 3D printing accessible to everyone."
+   },
+   "noise": {
+    "value": "under 48 (Silent Mode)",
+    "unit": "dB",
+    "src": "https://bambulab.com/en/a1",
+    "quote": "Silent Mode can bring down the noise level to under 48 dB making A1"
+   },
+   "local": {
+    "value": "LAN Mode",
+    "unit": "",
+    "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
+    "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
+   }
+  },
+  {
+   "id": "bambu-p1s",
+   "brand": "Bambu Lab",
+   "model": "P1S",
+   "asin": "B0CHDM8VVZ",
+   "pages": [
+    "bambu-a1-mini-vs-a1-vs-p1s-small-space"
+   ],
+   "enclosedYes": true,
+   "multicolorYes": true,
+   "enclosed": {
+    "value": "yes",
+    "unit": "",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Fully Enclosed Design: Print engineering-grade filaments safely"
+   },
+   "build": {
+    "value": "256 x 256 x 256",
+    "unit": "mm",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Build Volume(WxDxH) 256 x 256 x 256 mm³"
+   },
+   "footprint": {
+    "value": "389 x 389 x 458",
+    "unit": "mm",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "P1S：389 * 389 * 458 mm³"
+   },
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Max Hot End Temperature 300 ℃"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Max Build Plate Temperature 100℃"
+   },
+   "abs": {
+    "value": "ABS and ASA listed as ideal",
+    "unit": "",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Ideal: PLA, PETG, TPU, PVA, PET, ABS, ASA"
+   },
+   "multicolor": {
+    "value": "AMS (combo or add-on)",
+    "unit": "",
+    "src": "https://us.store.bambulab.com/products/p1s",
+    "quote": "Get the AMS combo to unleash Multi-color printing capability"
+   },
+   "noise": null,
+   "local": {
+    "value": "LAN Mode",
+    "unit": "",
+    "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
+    "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
+   }
+  },
+  {
+   "id": "bambu-p2s",
+   "brand": "Bambu Lab",
+   "model": "P2S",
+   "asin": "B0FT7ZLSSC",
+   "pages": [
+    "best-3d-printer-for-school-classroom"
+   ],
+   "enclosedYes": true,
+   "multicolorYes": true,
+   "enclosed": {
+    "value": "yes",
+    "unit": "",
+    "src": "https://bambulab.com/en/p2s",
+    "quote": "seals heat within the chamber while actively filtering the internal air through a high-performance carbon filter"
+   },
+   "build": {
+    "value": "256 x 256 x 256",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/p2s/specs",
+    "quote": "Build Volume (W*D*H) 256mm*256mm*256mm"
+   },
+   "footprint": {
+    "value": "392 x 406 x 478",
+    "unit": "mm",
+    "src": "https://bambulab.com/en/p2s/specs",
+    "quote": "Physical Dimensions 392mm*406mm*478mm"
+   },
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://bambulab.com/en/p2s/specs",
+    "quote": "Max Nozzle Temperature 300 ℃"
+   },
+   "bed": {
+    "value": 110,
+    "unit": "C",
+    "src": "https://bambulab.com/en/p2s/specs",
+    "quote": "Max Heatbed Temperature 110 ℃"
+   },
+   "abs": {
+    "value": "ABS and ASA listed",
+    "unit": "",
+    "src": "https://bambulab.com/en/p2s/specs",
+    "quote": "Filament Supported PLA, PETG, ABS, ASA, TPU"
+   },
+   "multicolor": {
+    "value": "AMS 2 Pro (combo or add-on)",
+    "unit": "",
+    "src": "https://bambulab.com/en/p2s",
+    "quote": "Experience our most reliable multi-color printing system yet"
+   },
+   "noise": null,
+   "local": {
+    "value": "LAN Mode",
+    "unit": "",
+    "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
+    "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
+   }
+  },
+  {
+   "id": "creality-ender-3-v3-se",
+   "brand": "Creality",
+   "model": "Ender 3 V3 SE",
+   "asin": "B0DD7F2BH9",
+   "pages": [
+    "200-vs-400-dollar-first-3d-printer-which-to-buy"
+   ],
+   "enclosedYes": false,
+   "multicolorYes": false,
+   "enclosed": null,
+   "build": null,
+   "footprint": null,
+   "nozzle": null,
+   "bed": null,
+   "abs": null,
+   "multicolor": null,
+   "noise": null,
+   "local": null
+  },
+  {
+   "id": "creality-k1c",
+   "brand": "Creality",
+   "model": "K1C",
+   "asin": "B0CQKTYWXS",
+   "pages": [
+    "200-vs-400-dollar-first-3d-printer-which-to-buy"
+   ],
+   "enclosedYes": true,
+   "multicolorYes": true,
+   "enclosed": {
+    "value": "yes",
+    "unit": "",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "form a stylish thermal enclosure"
+   },
+   "build": {
+    "value": "220 x 220 x 250",
+    "unit": "mm",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "Build Volume： 220*220*250mm"
+   },
+   "footprint": {
+    "value": "355 x 355 x 482",
+    "unit": "mm",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "Product Dimensions： 355*355*482mm"
+   },
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "Nozzle Temperature： ≤300℃"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "Heatbed Temperature： ≤100℃"
+   },
+   "abs": {
+    "value": "ABS and ASA listed",
+    "unit": "",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "ABS, PLA, PETG, PET, TPU, PA, ABS, ASA, PC"
+   },
+   "multicolor": {
+    "value": "CFS upgrade kit (add-on)",
+    "unit": "",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "CFS Upgrade Accessory Kit For Multicolor Printing"
+   },
+   "noise": {
+    "value": "45 or less, at 1 meter",
+    "unit": "dB",
+    "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
+    "quote": "≤45dB Measured at 1-meter distance, data from Creality Lab."
+   },
+   "local": null
+  },
+  {
+   "id": "elegoo-centauri-carbon",
+   "brand": "ELEGOO",
+   "model": "Centauri Carbon",
+   "asin": "B0FDQP54X8",
+   "pages": [
+    "best-3d-printers-under-500",
+    "first-3d-printer-gift-for-kids-10-14-under-300",
+    "elegoo-centauri-carbon-vs-bambu-a1-no-cloud"
+   ],
+   "enclosedYes": true,
+   "multicolorYes": false,
+   "enclosed": {
+    "value": "yes",
+    "unit": "",
+    "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
+    "quote": "Fully Enclosed Chamber, High-Temperature Printing Beyond PLA"
+   },
+   "build": {
+    "value": "256 x 256 x 256",
+    "unit": "mm",
+    "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
+    "quote": "Build Volume 256 × 256 × 256 mm"
+   },
+   "footprint": null,
+   "nozzle": {
+    "value": 320,
+    "unit": "C",
+    "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
+    "quote": "320°C Hotend + Brass-Hardened Steel Nozzle"
+   },
+   "bed": {
+    "value": 110,
+    "unit": "C",
+    "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
+    "quote": "110℃ Heated Bed, Reliable Heat Stability and Adhesion"
+   },
+   "abs": null,
+   "multicolor": null,
+   "noise": null,
+   "local": {
+    "value": "LAN Wi-Fi transfer",
+    "unit": "",
+    "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
+    "quote": "LAN-Enabled Wi-Fi Transfer"
+   }
+  },
+  {
+   "id": "flashforge-adventurer-5m",
+   "brand": "FLASHFORGE",
+   "model": "Adventurer 5M",
+   "asin": "B0CH4NYL6J",
+   "pages": [
+    "best-3d-printers-under-500"
+   ],
+   "enclosedYes": false,
+   "multicolorYes": false,
+   "enclosed": {
+    "value": "no; maker sells a DIY enclosure",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "AD5M DIY enclosure enhances safety and print performance"
+   },
+   "build": {
+    "value": "220 x 220 x 220",
+    "unit": "mm",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "Build Volume 220 × 220 × 220 mm"
+   },
+   "footprint": {
+    "value": "363 x 402 x 448",
+    "unit": "mm",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "363*402*448mm (including the display screen"
+   },
+   "nozzle": {
+    "value": 280,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "Extruder Temperature 280°C"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "Platform Temperature 100ºC"
+   },
+   "abs": {
+    "value": "ABS not compatible",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/adventurer-5m-3d-printer",
+    "quote": "ABS series Filaments is not compatible with the AD5M"
+   },
+   "multicolor": null,
+   "noise": null,
+   "local": null
+  },
+  {
+   "id": "flashforge-adventurer-5m-pro",
+   "brand": "FLASHFORGE",
+   "model": "Adventurer 5M Pro",
+   "asin": "B0CH4RG161",
+   "pages": [
+    "best-3d-printer-for-school-classroom"
+   ],
+   "enclosedYes": true,
+   "multicolorYes": false,
+   "enclosed": {
+    "value": "yes",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "Enclosed CoXY Metal Structure, Safe for Home Use"
+   },
+   "build": {
+    "value": "220 x 220 x 220",
+    "unit": "mm",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "Build Volume 220 × 220 × 220 mm"
+   },
+   "footprint": {
+    "value": "380 x 400 x 453",
+    "unit": "mm",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "Device Size 380*400*453mm (excluding the spool holder)"
+   },
+   "nozzle": {
+    "value": 280,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "The nozzle temperature reaches a maximum of 280°C"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "Platform Temperature 100ºC"
+   },
+   "abs": {
+    "value": "ABS and ASA listed",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "perfect for printing PLA, PETG, ASA and ABS filaments"
+   },
+   "multicolor": null,
+   "noise": {
+    "value": "50 low-noise mode, 55 standard",
+    "unit": "dB",
+    "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
+    "quote": "Low-noise mode: 50dB; Standard mode: 55dB"
+   },
+   "local": null
+  },
+  {
+   "id": "flashforge-ad5x",
+   "brand": "FLASHFORGE",
+   "model": "AD5X",
+   "asin": "B0DN68QV3B",
+   "pages": [
+    "best-3d-printers-under-500"
+   ],
+   "enclosedYes": false,
+   "multicolorYes": true,
+   "enclosed": {
+    "value": "no; maker sells an enclosure kit",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "Enclosure Kit for Flashforge AD5X"
+   },
+   "build": {
+    "value": "220 x 220 x 220",
+    "unit": "mm",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "Build Volume 220x220x220mm"
+   },
+   "footprint": null,
+   "nozzle": {
+    "value": 300,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "Max Extruder Temp 300°C"
+   },
+   "bed": {
+    "value": 110,
+    "unit": "C",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "Max Bed Temp 110°C"
+   },
+   "abs": {
+    "value": "PETG, PLA, TPU listed; ABS not listed",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "PETG/PLA/TPU95A (recommended for single-color printing)"
+   },
+   "multicolor": {
+    "value": "4-color IFS built in",
+    "unit": "",
+    "src": "https://www.flashforge.com/products/flashforge-ad5x-3d-printer",
+    "quote": "AD5X includes the Intelligent Filament System (IFS) as a standard feature"
+   },
+   "noise": null,
+   "local": null
+  }
+ ]
+}

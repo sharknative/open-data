@@ -1,0 +1,3689 @@
+{
+ "name": "Wellness Rundown Small-Space Fitness Index",
+ "url": "https://wellnessrundown.com/small-space-index/",
+ "as_of": "2026-10-24",
+ "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); credit: a link to https://wellnessrundown.com/small-space-index/",
+ "method": "Every value is copied from the maker's product page or manual (src_type maker/manual), or from Amazon's product data when the maker has no product page (src_type listing). Blank = not published. Nothing here was measured by Wellness Rundown.",
+ "models": [
+  {
+   "id": "merach-ultrawalk-w60",
+   "class": "walking_pad",
+   "name": "MERACH UltraWalk W60 Plus",
+   "maker": "MERACH",
+   "maker_url": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+   "asin": "B0H2JJBFYX",
+   "on_pages": [
+    "best-walking-pads-for-small-apartments"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "330",
+     "unit": "lb",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "Max User Weight: 330 lbs",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "1.25",
+     "unit": "hp",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "Motor Power: 1.25 CHP",
+     "src_type": "maker"
+    },
+    "noise": {
+     "value": "53.6",
+     "unit": "dB",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "Average 53.6 dB operation",
+     "src_type": "maker"
+    },
+    "belt": {
+     "value": "41.3 x 16.5",
+     "unit": "in",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "Running Belt Size: 16.5 x 41.3",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "tuck it under the sofa",
+     "unit": "",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "tuck it under the sofa or stand it upright in the corner",
+     "src_type": "maker"
+    },
+    "fold": {
+     "value": "flat or upright storage",
+     "unit": "",
+     "src": "https://merachfit.com/products/merach-ultrawalk-w60-plus",
+     "quote": "flat or upright storage",
+     "src_type": "maker"
+    }
+   },
+   "note": "The maker calls it UltraWalk W60 Plus; the Amazon listing linked here is titled UltraWalk W60. The maker's product dimensions carry no unit, so they are left blank.",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 14.7,
+    "fold_stated": 10.0,
+    "noise_claim": 10.0,
+    "continuous_hp": 20.0
+   },
+   "score": 55,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "walkingpad-z1",
+   "class": "walking_pad",
+   "name": "WalkingPad Z1",
+   "maker": "WalkingPad (KingSmith)",
+   "maker_url": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+   "asin": "",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "56.1",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "4.1",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "31.8",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "5.4",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "51",
+     "unit": "lb",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Net Weight: 51 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "242",
+     "unit": "lb",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Weight Capacity: 242 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "<65",
+     "unit": "dB",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "noise levels below 65 dB",
+     "src_type": "maker"
+    },
+    "belt": {
+     "value": "47.6 x 15.7",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "Walking Area: 47.6 x 15.7 in",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "slide it under a bed or sofa",
+     "unit": "",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "fold the walking pad in half and slide it under a bed or sofa",
+     "src_type": "maker"
+    },
+    "fold": {
+     "value": "folds in half",
+     "unit": "",
+     "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
+     "quote": "fold the walking pad in half",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "short": "WalkingPad Z1",
+   "score_parts": {
+    "stored_volume": 21.0,
+    "max_user_weight": 10.8,
+    "fold_stated": 10.0,
+    "noise_claim": 10.0,
+    "continuous_hp": 0.0
+   },
+   "score": 52,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "urevo-smart-11-incline-walking-pad",
+   "class": "walking_pad",
+   "name": "UREVO Smart 11% Incline Walking Pad",
+   "maker": "UREVO",
+   "maker_url": "https://www.amazon.com/dp/B0HH9KHJR9",
+   "asin": "B0HH9KHJR9",
+   "on_pages": [
+    "best-under-desk-treadmill-small-home-office"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "45",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "4",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "45",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Folded Size 45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "stored_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Folded Size 45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "stored_h": {
+     "value": "4",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Folded Size 45\"D x 22\"W x 4\"H",
+     "src_type": "listing"
+    },
+    "weight": {
+     "value": "43",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Item Weight 43 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "265",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Maximum Weight Recommendation 265 pounds",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "36 x 15",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "Deck Length 36 inches Deck Width 15 inches",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "storing under beds, sofas, or closets",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "make moving and storing this compact walking pad effortless under beds, sofas, or closets",
+     "src_type": "listing"
+    },
+    "fold": {
+     "value": "SwiftFold collapses in 3 seconds",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
+     "quote": "The innovative SwiftFold mechanism collapses your treadmill in just 3 seconds",
+     "src_type": "listing"
+    }
+   },
+   "note": "",
+   "short": "UREVO Smart 11% Incline pad",
+   "score_parts": {
+    "stored_volume": 20.0,
+    "max_user_weight": 11.8,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 42,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "walkingpad-c2",
+   "class": "walking_pad",
+   "name": "WalkingPad C2",
+   "maker": "WalkingPad (KingSmith)",
+   "maker_url": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+   "asin": "B0F48MZV54",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "56.9",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Unfolded Size: 56.9 x 20.4 x 4.9 in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "20.4",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Unfolded Size: 56.9 x 20.4 x 4.9 in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "4.9",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Unfolded Size: 56.9 x 20.4 x 4.9 in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "32.5",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Folded Size: 32.5 x 20.4 x 5.4 in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "20.4",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Folded Size: 32.5 x 20.4 x 5.4 in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "5.4",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Folded Size: 32.5 x 20.4 x 5.4 in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "55",
+     "unit": "lb",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Net Weight: 55 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "220",
+     "unit": "lb",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Weight Capacity: 220 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "47.2 x 15.7",
+     "unit": "in",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "Walking Area: 47.2 x 15.7 in",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "slide it under your bed, couch or desk",
+     "unit": "",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "you can slide it under your bed, couch or desk",
+     "src_type": "maker"
+    },
+    "fold": {
+     "value": "folds to stow",
+     "unit": "",
+     "src": "https://www.walkingpad.com/products/walkingpad-c2-foldable-walking-machine",
+     "quote": "easily folds to completely disappear when you are done",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "short": "WalkingPad C2",
+   "score_parts": {
+    "stored_volume": 22.1,
+    "max_user_weight": 9.8,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 42,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "cardirun-walking-pad-12-incline-handle",
+   "class": "walking_pad",
+   "name": "Cardirun Walking Pad with Handle Bar (12% incline)",
+   "maker": "Cardirun",
+   "maker_url": "https://www.amazon.com/dp/B0H6PLWDJZ",
+   "asin": "B0H6PLWDJZ",
+   "on_pages": [
+    "best-walking-pads-for-small-apartments"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "53.15",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "53.15\"D x 24.4\"W x 41.7\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "24.4",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "53.15\"D x 24.4\"W x 41.7\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "41.7",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "53.15\"D x 24.4\"W x 41.7\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "53.15",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "Folded Size 53.15 × 24.4 × 5.5 inch",
+     "src_type": "listing"
+    },
+    "stored_w": {
+     "value": "24.4",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "Folded Size 53.15 × 24.4 × 5.5 inch",
+     "src_type": "listing"
+    },
+    "stored_h": {
+     "value": "5.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "Folded Size 53.15 × 24.4 × 5.5 inch",
+     "src_type": "listing"
+    },
+    "weight": {
+     "value": "57",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "Item Weight 57 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "375",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "it supports up to 375 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "40 x 16",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "40\" × 16\" WIDE BELT",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "handlebar folds down for under-desk use",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0H6PLWDJZ",
+     "quote": "Fold the handlebar down to use it as an under desk walking pad",
+     "src_type": "listing"
+    }
+   },
+   "note": "In-use height includes the raised handlebar.",
+   "short": "Cardirun pad",
+   "score_parts": {
+    "stored_volume": 11.1,
+    "max_user_weight": 16.7,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 38,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "homefitnesscode-walking-pad-handle",
+   "class": "walking_pad",
+   "name": "HOMEFITNESSCODE Walking Pad with Handle Bar (8% manual incline)",
+   "maker": "HOMEFITNESSCODE",
+   "maker_url": "https://www.amazon.com/dp/B0GMSPRY8B",
+   "asin": "B0GMSPRY8B",
+   "on_pages": [
+    "best-walking-pads-for-small-apartments"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "40.8",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "Dimensions with armrests: 40.8*20.7*37.4in",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "20.7",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "Dimensions with armrests: 40.8*20.7*37.4in",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "37.4",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "Dimensions with armrests: 40.8*20.7*37.4in",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "3.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "folds to 3.5in thin",
+     "src_type": "listing"
+    },
+    "weight": {
+     "value": "33.1",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "Weighing 33.1lbs",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "350",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "a robust 350lb weight capacity",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "<35",
+     "unit": "dB",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "2.5HP brushless motor operates at <35dB",
+     "src_type": "listing"
+    },
+    "belt": {
+     "value": "36 x 15",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "The 36*15in wide running belt",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "folds to 3.5 in thin",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0GMSPRY8B",
+     "quote": "This 2-in-1 portable treadmill folds to 3.5in thin for under-desk workouts",
+     "src_type": "listing"
+    }
+   },
+   "note": "In-use size includes the armrests.",
+   "short": "HOMEFITNESSCODE pad",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 15.6,
+    "fold_stated": 10.0,
+    "noise_claim": 10.0,
+    "continuous_hp": 0.0
+   },
+   "score": 36,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "acezoe-foldable-walking-pad-handle",
+   "class": "walking_pad",
+   "name": "Acezoe Foldable Walking Pad with Handle Bar",
+   "maker": "Acezoe",
+   "maker_url": "https://www.amazon.com/dp/B0GJSW117V",
+   "asin": "B0GJSW117V",
+   "on_pages": [
+    "best-walking-pads-for-small-apartments"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "53.94",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "53.94\"D x 28.27\"W x 5.12\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "28.27",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "53.94\"D x 28.27\"W x 5.12\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "5.12",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "53.94\"D x 28.27\"W x 5.12\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "54.92",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "Folded Size 54.92 x 29.52 x 6.30 inches",
+     "src_type": "listing"
+    },
+    "stored_w": {
+     "value": "29.52",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "Folded Size 54.92 x 29.52 x 6.30 inches",
+     "src_type": "listing"
+    },
+    "stored_h": {
+     "value": "6.30",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "Folded Size 54.92 x 29.52 x 6.30 inches",
+     "src_type": "listing"
+    },
+    "weight": {
+     "value": "78",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "Item Weight 78 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "speeds from 0.6 to 10 MPH and up to 300 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "41 x 16.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "The spacious 41\" x 16.5\" running surface",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "foldable frame and transport wheels to move and store",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0GJSW117V",
+     "quote": "easy to move and store with its foldable frame and transport wheels",
+     "src_type": "listing"
+    }
+   },
+   "note": "",
+   "short": "Acezoe foldable pad",
+   "score_parts": {
+    "stored_volume": 7.8,
+    "max_user_weight": 13.3,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 31,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "acezoe-15-incline-walking-pad",
+   "class": "walking_pad",
+   "name": "Acezoe Walking Pad (15% incline)",
+   "maker": "Acezoe",
+   "maker_url": "https://www.amazon.com/dp/B0H32VC5PJ",
+   "asin": "B0H32VC5PJ",
+   "on_pages": [
+    "best-under-desk-treadmill-small-home-office"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "49.2",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "compact size of 49.2\" × 19.0\" × 6.2\"",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "19.0",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "compact size of 49.2\" × 19.0\" × 6.2\"",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "6.2",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "compact size of 49.2\" × 19.0\" × 6.2\"",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "50.9",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "Item Weight 50.9 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "3.0HP brushless motor supporting up to 300 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "40.5 x 16",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "spacious 40.5\" × 16\" running surface",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "slides under beds, sofas",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "allows it to slide conveniently under beds, sofas",
+     "src_type": "listing"
+    },
+    "fold": {
+     "value": "transport wheels; moved and stored after use",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0H32VC5PJ",
+     "quote": "built-in transport wheels, this compact under desk treadmill can be easily moved and stored after use",
+     "src_type": "listing"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 13.3,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 23,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "urevo-cyberpad",
+   "class": "walking_pad",
+   "name": "UREVO CyberPad (14% incline)",
+   "maker": "UREVO",
+   "maker_url": "https://www.amazon.com/dp/B0F6LJGZ12",
+   "asin": "B0F6LJGZ12",
+   "on_pages": [
+    "best-under-desk-treadmill-small-home-office"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "43",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "43\"D x 23\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "23",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "43\"D x 23\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "6",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "43\"D x 23\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "63",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "Item Weight 63 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "Maximum Weight Recommendation 300 pounds",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "<35",
+     "unit": "dB",
+     "src": "https://www.amazon.com/dp/B0F6LJGZ12",
+     "quote": "runs at less than 35 decibels",
+     "src_type": "listing"
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 13.3,
+    "fold_stated": 0.0,
+    "noise_claim": 10.0,
+    "continuous_hp": 0.0
+   },
+   "score": 23,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "pacerocker-walking-pad-450",
+   "class": "walking_pad",
+   "name": "PACEROCKER Walking Pad (450 lb)",
+   "maker": "PACEROCKER",
+   "maker_url": "https://www.amazon.com/dp/B0D9JXDQ2T",
+   "asin": "B0D9JXDQ2T",
+   "on_pages": [
+    "best-under-desk-treadmill-small-home-office"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "48",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "48\"D x 20\"W x 6.5\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "20",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "48\"D x 20\"W x 6.5\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "6.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "48\"D x 20\"W x 6.5\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "43",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "Item Weight 43 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "450",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "supports up to 450 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "38.6 x 15.7",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "Deck Length 38.6 inches Deck Width 15.7 inches",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "stores under desk/ bed/ sofa",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0D9JXDQ2T",
+     "quote": "Stores under desk/ bed/ sofa or along walls",
+     "src_type": "listing"
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 20.0,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 20,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "trailviber-walking-pad-12-incline",
+   "class": "walking_pad",
+   "name": "TRAILVIBER Walking Pad (12% incline)",
+   "maker": "TRAILVIBER",
+   "maker_url": "https://www.amazon.com/dp/B0D6BFMNN5",
+   "asin": "B0D6BFMNN5",
+   "on_pages": [
+    "best-under-desk-treadmill-small-home-office"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "48",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "48\"D x 21\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "21",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "48\"D x 21\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "6",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "48\"D x 21\"W x 6\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "44",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "Item Weight 44 pounds",
+     "src_type": "listing"
+    },
+    "max_user": {
+     "value": "450",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "This heavy duty walking pad supports 450 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "41 x 16.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0D6BFMNN5",
+     "quote": "Deck Length 41 inches Deck Width 16.5 inches",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 20.0,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 20,
+   "class_median_stored_volume_cu_in": 3960
+  },
+  {
+   "id": "nordictrack-t-series-16",
+   "class": "folding_treadmill",
+   "name": "NordicTrack T Series 16 Treadmill",
+   "maker": "NordicTrack",
+   "maker_url": "https://www.nordictrack.com/product/t-series-16-treadmill",
+   "asin": "B0FBYJPXQ9",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "75.1",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint: 75.1\" L (190.8 cm) x 34.3\" (87.1 cm) W x 58.4\" H",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "34.3",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint: 75.1\" L (190.8 cm) x 34.3\" (87.1 cm) W x 58.4\" H",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "58.4",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint: 75.1\" L (190.8 cm) x 34.3\" (87.1 cm) W x 58.4\" H",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "41.0",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint Folded: 41.0\" L (104.1 cm) x 34.3\" (87.1 cm) W x 68.3\" H",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "34.3",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint Folded: 41.0\" L (104.1 cm) x 34.3\" (87.1 cm) W x 68.3\" H",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "68.3",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Footprint Folded: 41.0\" L (104.1 cm) x 34.3\" (87.1 cm) W x 68.3\" H",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "325",
+     "unit": "lb",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "325 lb User Capacity",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "3.6",
+     "unit": "CHP",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "3.6 CHP motor with a 2-year warranty",
+     "src_type": "maker"
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "60 x 20",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "20x60 in belt",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "8.3",
+     "unit": "in",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Step-Up Height: 8.3 inches",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "Easily fold and roll away with SpaceSaver design",
+     "unit": "",
+     "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
+     "quote": "Easily fold and roll away with SpaceSaver design",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 19.9,
+    "max_user_weight": 16.2,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 20.0
+   },
+   "score": 66,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "sunny-sf-t723030",
+   "class": "folding_treadmill",
+   "name": "Sunny SF-T723030 OneClick-Fold Treadmill",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+   "asin": "",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "63.8",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Product Dimensions 63.8L x 30.9W x 45.7H in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "30.9",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Product Dimensions 63.8L x 30.9W x 45.7H in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "45.7",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Product Dimensions 63.8L x 30.9W x 45.7H in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "63.8",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Folded Product Dimensions 63.8L x 30.9W x 11.4H in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "30.9",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Folded Product Dimensions 63.8L x 30.9W x 11.4H in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "11.4",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Folded Product Dimensions 63.8L x 30.9W x 11.4H in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "130",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Product Weight 130 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Max User Weight 300 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "53.1 x 20.1",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "Running Surface 53.1 L 20.1 W",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "lay the treadmill flat and slide it under furniture",
+     "unit": "",
+     "src": "https://sunnyhealthfitness.com/products/foldable-auto-incline-treadmill-with-20-running-belt-brushless-motor-sf-t723030",
+     "quote": "lay the treadmill flat and slide it under furniture or into compact spaces",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 40.0,
+    "max_user_weight": 15.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 65,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "schwinn-810",
+   "class": "folding_treadmill",
+   "name": "Schwinn 810 Treadmill",
+   "maker": "Schwinn Fitness",
+   "maker_url": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+   "asin": "B07WZXVP3H",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "69.1",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Dimensions 69.1\" L x 35.6\" W x 56.7\" H",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "35.6",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Dimensions 69.1\" L x 35.6\" W x 56.7\" H",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "56.7",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Dimensions 69.1\" L x 35.6\" W x 56.7\" H",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "39.5",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Stowed Dimensions 39.5\" L x 35.6\" W x 60.2\" H",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "35.6",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Stowed Dimensions 39.5\" L x 35.6\" W x 60.2\" H",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "60.2",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Stowed Dimensions 39.5\" L x 35.6\" W x 60.2\" H",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "155",
+     "unit": "lb",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Assembled Product Weight 155 lbs",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "275",
+     "unit": "lb",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "Maximum User Weight 275 lbs",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "55 x 20",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "20\" x 55\" Running Path",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "SoftDrop folding design for easy storage",
+     "unit": "",
+     "src": "https://www.schwinnfitness.com/products/schwinn-810-treadmill",
+     "quote": "SoftDrop folding design for easy storage",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 22.6,
+    "max_user_weight": 13.8,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 46,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "horizon-t101",
+   "class": "folding_treadmill",
+   "name": "Horizon T101 Connect Treadmill",
+   "maker": "Horizon Fitness",
+   "maker_url": "https://www.horizonfitness.com/products/t101-treadmill",
+   "asin": "B0F9LQY1P4",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "70.5",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 70.5\" x 33.5\" x 59\"",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "33.5",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 70.5\" x 33.5\" x 59\"",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "59",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 70.5\" x 33.5\" x 59\"",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "46",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 46\" x 34\" x 61\"",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "34",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 46\" x 34\" x 61\"",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "61",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 46\" x 34\" x 61\"",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "180",
+     "unit": "lb",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Weight 180 lbs.",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Max user weight: 300 lbs.",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "55 x 20",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Running Area 20\" x 55\"",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "7 1/8",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "Step on Height (inches) 7 1/8",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "One-step hydraulic folding for easy storage",
+     "unit": "",
+     "src": "https://www.horizonfitness.com/products/t101-treadmill",
+     "quote": "One-step hydraulic folding for easy storage",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 20.1,
+    "max_user_weight": 15.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 45,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "sole-f63",
+   "class": "folding_treadmill",
+   "name": "SOLE F63 Treadmill",
+   "maker": "SOLE Fitness",
+   "maker_url": "https://www.soletreadmills.com/products/sole-f63",
+   "asin": "",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "75",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Unit Measurements 75x34x52",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "34",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Unit Measurements 75x34x52",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "52",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Unit Measurements 75x34x52",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "42",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Folded Measurements 42x34x71",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "34",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Folded Measurements 42x34x71",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "71",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Folded Measurements 42x34x71",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "187",
+     "unit": "lb",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Unit Weight 187",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "325",
+     "unit": "lb",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "supports users up to 325 lbs",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "60 x 20",
+     "unit": "in",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Running Surface 20\" x60\"",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "Fold-up kick release",
+     "unit": "",
+     "src": "https://www.soletreadmills.com/products/sole-f63",
+     "quote": "Fold Up Kick Release",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 18.9,
+    "max_user_weight": 16.2,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 45,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "horizon-7-0-at",
+   "class": "folding_treadmill",
+   "name": "Horizon 7.0 AT Treadmill",
+   "maker": "Horizon Fitness",
+   "maker_url": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+   "asin": "B0DJ3N5SY9",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "76",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 76\" x 35\" x 67\"",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "35",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 76\" x 35\" x 67\"",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "67",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Assembled Dimensions (L x W x H) 76\" x 35\" x 67\"",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "44",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 44\" x 35\" x 68\"",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "35",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 44\" x 35\" x 68\"",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "68",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Folded Dimensions (L x W x H) 44\" x 35\" x 68\"",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "277",
+     "unit": "lb",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Weight 277 lbs.",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "325",
+     "unit": "lb",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Max User Weight 325 lbs.",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "60 x 20",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Running Area 20\" x 60\"",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "8 5/8",
+     "unit": "in",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Step on Height (inches) 8 5/8",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "FeatherLight Folding",
+     "unit": "",
+     "src": "https://www.horizonfitness.com/products/horizon-7-0-at-treadmill",
+     "quote": "Frame Type FeatherLight Folding",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 18.3,
+    "max_user_weight": 16.2,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 44,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "wellfit-foldable-auto-incline",
+   "class": "folding_treadmill",
+   "name": "WELLFIT Foldable Treadmill with Auto Incline",
+   "maker": "WELLFIT",
+   "maker_url": "https://www.amazon.com/dp/B0FT7LK9DP",
+   "asin": "B0FT7LK9DP",
+   "on_pages": [
+    "best-walking-pads-for-small-apartments"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "400",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0FT7LK9DP",
+     "quote": "Auto Incline, 400 LBS",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "44 x 17",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0FT7LK9DP",
+     "quote": "44\" x 17\" Wide Belt",
+     "src_type": "listing"
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "Foldable Treadmill",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0FT7LK9DP",
+     "quote": "WELLFIT Foldable Treadmill",
+     "src_type": "listing"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 20.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0,
+    "continuous_hp": 0.0
+   },
+   "score": 30,
+   "class_median_stored_volume_cu_in": 95727
+  },
+  {
+   "id": "merach-novarow-950",
+   "class": "compact_rower",
+   "name": "MERACH NovaRow 950 Rowing Machine",
+   "maker": "MERACH",
+   "maker_url": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+   "asin": "B0CKH8L4M4",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "1990",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Unfolded Dimensions 1990 520 480mm",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "520",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Unfolded Dimensions 1990 520 480mm",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "480",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Unfolded Dimensions 1990 520 480mm",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "1255",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Folded Dimensions 1255 520 480mm",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "520",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Folded Dimensions 1255 520 480mm",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "480",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Folded Dimensions 1255 520 480mm",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "31",
+     "unit": "kg",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Net Weight 31kg",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "330",
+     "unit": "lb",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "supports max 330lbs weight capacity",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "250",
+     "unit": "mm",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "Seat Height from Ground 250mm",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "drawer-style folding; can be stored vertically against the wall",
+     "unit": "",
+     "src": "https://www.merachfit.com/products/novarow-950-dual-resistance-rowing-machine",
+     "quote": "allows the wood rowing machine to be stored vertically against the wall",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 40.0,
+    "max_user_weight": 13.2,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 79,
+   "class_median_stored_volume_cu_in": 65190
+  },
+  {
+   "id": "concept2-rowerg",
+   "class": "compact_rower",
+   "name": "Concept2 RowErg",
+   "maker": "Concept2",
+   "maker_url": "https://www.concept2.com/indoor-rowers/rowerg",
+   "asin": "B00NH9WEUA",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "96",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "Overall Length 96 in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "24",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "Width 24 in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_l": {
+     "value": "25",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "with standard legs 25 in x 33 in x 54 in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "33",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "with standard legs 25 in x 33 in x 54 in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "54",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "with standard legs 25 in x 33 in x 54 in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "57",
+     "unit": "lb",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "Machine Weight with standard legs 57 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "500",
+     "unit": "lb",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "Maximum User Weight 500 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "54",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "Monorail Length 54 in",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "14",
+     "unit": "in",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "seat height from floor with standard legs 14in",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "separates into two pieces for storage, no tools required",
+     "unit": "",
+     "src": "https://www.concept2.com/indoor-rowers/rowerg",
+     "quote": "can be quickly separated into two pieces for storage, no tools required",
+     "src_type": "maker"
+    }
+   },
+   "note": "Concept2 lists the storage size as 25 in x 33 in x 54 in without naming which side is which; shown in that order.",
+   "score_parts": {
+    "stored_volume": 29.3,
+    "max_user_weight": 20.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 74,
+   "class_median_stored_volume_cu_in": 65190
+  },
+  {
+   "id": "hydrow-wave",
+   "class": "compact_rower",
+   "name": "Hydrow Wave",
+   "maker": "Hydrow",
+   "maker_url": "https://hydrow.com/products/rowers/hydrow-wave/",
+   "asin": "B0BHLXDZ2N",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "80",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Dimensions 80″L x 19″W x 43″H",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "19",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Dimensions 80″L x 19″W x 43″H",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "43",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Dimensions 80″L x 19″W x 43″H",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "30",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Stored Dimensions 26.5″W x 30″D x 82″H",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "26.5",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Stored Dimensions 26.5″W x 30″D x 82″H",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "82",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Stored Dimensions 26.5″W x 30″D x 82″H",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "102",
+     "unit": "lb",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Machine Weight 102 lbs",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "375",
+     "unit": "lb",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "Weight Limit 375 lbs",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "14",
+     "unit": "in",
+     "src": "https://hydrow.com/blog/how-much-space-does-a-hydrow-rowing-machine-take-up/",
+     "quote": "Seat height: 14″ from the floor",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "stores upright with the Vertical Anchor (sold separately)",
+     "unit": "",
+     "src": "https://hydrow.com/blog/hydrow-wave-deep-dive-why-this-compact-rower-will-transform-your-home-workouts/",
+     "quote": "the optional Hydrow Wave Vertical Anchor lets you store it vertically in seconds",
+     "src_type": "maker"
+    }
+   },
+   "note": "Upright storage needs Hydrow's optional Vertical Anchor, sold separately.",
+   "score_parts": {
+    "stored_volume": 20.0,
+    "max_user_weight": 15.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 56,
+   "class_median_stored_volume_cu_in": 65190
+  },
+  {
+   "id": "sunny-sf-rw522067",
+   "class": "compact_rower",
+   "name": "Sunny SF-RW522067 Smart Full Motion Magnetic Rower",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+   "asin": "B0CLT9F123",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "78.6",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Product Dimensions: 78.6L x 28.3W x 39.3H in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "28.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Product Dimensions: 78.6L x 28.3W x 39.3H in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "39.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Product Dimensions: 78.6L x 28.3W x 39.3H in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "33",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Folded Product Dimensions: 33L x 28.3W x 78.3H in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "28.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Folded Product Dimensions: 33L x 28.3W x 78.3H in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "78.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Folded Product Dimensions: 33L x 28.3W x 78.3H in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "91.8",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Product Weight: 91.8 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "330",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Max User Weight: 330 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "51.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Slide Rail Length: 51.3 in",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "17.6",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "Seat Height: 17.6 in",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "space-saving upright storage",
+     "unit": "",
+     "src": "https://sunnyhealthfitness.com/products/motionmax-magnetic-rowing-machine-sf-rw522067",
+     "quote": "space-saving upright storage",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 17.8,
+    "max_user_weight": 13.2,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 51,
+   "class_median_stored_volume_cu_in": 65190
+  },
+  {
+   "id": "sunny-sf-rw5940smart",
+   "class": "compact_rower",
+   "name": "Sunny SF-RW5940SMART Smart Magnetic Air Rower",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+   "asin": "B0DSGQFQMN",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "91.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Product Dimensions: 91.3L x 22W x 42.3H in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Product Dimensions: 91.3L x 22W x 42.3H in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "42.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Product Dimensions: 91.3L x 22W x 42.3H in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "53.7",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Folded Product Dimensions: 53.7L x 22W x 58.1H in",
+     "src_type": "maker"
+    },
+    "stored_w": {
+     "value": "22",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Folded Product Dimensions: 53.7L x 22W x 58.1H in",
+     "src_type": "maker"
+    },
+    "stored_h": {
+     "value": "58.1",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Folded Product Dimensions: 53.7L x 22W x 58.1H in",
+     "src_type": "maker"
+    },
+    "weight": {
+     "value": "81.6",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Product Weight: 81.6 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Max User Weight: 300 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "52.6",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Slide Rail Length: 52.6 in",
+     "src_type": "maker"
+    },
+    "step_up": {
+     "value": "16.6",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Seat Height: 16.6 in",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "folds vertically to save space",
+     "unit": "",
+     "src": "https://sunnyhealthfitness.com/products/premium-smart-magnetic-air-rower-sf-rw5940smart",
+     "quote": "Fold it vertically to save space",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 19.0,
+    "max_user_weight": 12.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 51,
+   "class_median_stored_volume_cu_in": 65190
+  },
+  {
+   "id": "yosuda-e03",
+   "class": "compact_elliptical",
+   "name": "YOSUDA E03 Foldable Elliptical",
+   "maker": "YOSUDA",
+   "maker_url": "https://www.amazon.com/dp/B0FR4X37Z9",
+   "asin": "B0FR4X37Z9",
+   "on_pages": [
+    "best-elliptical-for-a-small-room-and-low-ceiling"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "47.6",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "Product Dimensions 47.6\"D x 22.7\"W x 62\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "22.7",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "Product Dimensions 47.6\"D x 22.7\"W x 62\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "62",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "Product Dimensions 47.6\"D x 22.7\"W x 62\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "350",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "supporting up to 350 lbs",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "15",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "the 15 in stride",
+     "src_type": "listing"
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "folds to 2 sq ft, stands against walls or corners",
+     "unit": "",
+     "src": "https://www.amazon.com/dp/B0FR4X37Z9",
+     "quote": "folds to only 2 sq ft and stands neatly against walls or corners",
+     "src_type": "listing"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 17.5,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 34,
+   "class_median_stored_volume_cu_in": null
+  },
+  {
+   "id": "sunny-sf-e905smart",
+   "class": "compact_elliptical",
+   "name": "Sunny SF-E905SMART Smart Compact Magnetic Elliptical",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+   "asin": "B0CRM7DM2X",
+   "on_pages": [
+    "best-elliptical-for-a-small-room-and-low-ceiling"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "40.7",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Product Dimensions 40.7L x 26.4W x 59.8H in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "26.4",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Product Dimensions 40.7L x 26.4W x 59.8H in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "59.8",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Product Dimensions 40.7L x 26.4W x 59.8H in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "62.8",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Product Weight 62.8 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "220",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Max User Weight 220 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "12.8",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Pedal Step Height Min 6.5 in/Max 12.8 in",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "11",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "Stride Length 11 in",
+     "src_type": "maker"
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "transportation wheels ensure easy storage",
+     "unit": "",
+     "src": "https://sunnyhealthfitness.com/products/smart-magnetic-elliptical-sf-e905smart",
+     "quote": "convenient transportation wheels ensure easy storage and portability",
+     "src_type": "maker"
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 11.0,
+    "fold_stated": 10.0,
+    "noise_claim": 0.0
+   },
+   "score": 26,
+   "class_median_stored_volume_cu_in": null
+  },
+  {
+   "id": "niceday-ct11s",
+   "class": "compact_elliptical",
+   "name": "Niceday CT11S Elliptical (15.5IN stride)",
+   "maker": "Niceday",
+   "maker_url": "https://www.amazon.com/dp/B0C9CPT6BS",
+   "asin": "B0C9CPT6BS",
+   "on_pages": [
+    "best-elliptical-for-a-small-room-and-low-ceiling"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "39",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0C9CPT6BS",
+     "quote": "Product Dimensions 39\"D x 21\"W x 60\"H",
+     "src_type": "listing"
+    },
+    "use_w": {
+     "value": "21",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0C9CPT6BS",
+     "quote": "Product Dimensions 39\"D x 21\"W x 60\"H",
+     "src_type": "listing"
+    },
+    "use_h": {
+     "value": "60",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0C9CPT6BS",
+     "quote": "Product Dimensions 39\"D x 21\"W x 60\"H",
+     "src_type": "listing"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "400",
+     "unit": "lb",
+     "src": "https://www.amazon.com/dp/B0C9CPT6BS",
+     "quote": "users weight up to 400LBS capacity",
+     "src_type": "listing"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "15.5",
+     "unit": "in",
+     "src": "https://www.amazon.com/dp/B0C9CPT6BS",
+     "quote": "15.5IN natural stride",
+     "src_type": "listing"
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 20.0,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0
+   },
+   "score": 25,
+   "class_median_stored_volume_cu_in": null
+  },
+  {
+   "id": "sunny-sf-e3912",
+   "class": "compact_elliptical",
+   "name": "Sunny SF-E3912 Pre-Programmed Elliptical",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/blogs/assembly-guides/sf-e3912",
+   "asin": "B07SRDFKQR",
+   "on_pages": [
+    "best-elliptical-for-a-small-room-and-low-ceiling"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "use_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "max_user": {
+     "value": "330",
+     "unit": "lb",
+     "src": "https://share.sunnyfit.com/web_static/op/user_manual/E219011SF-E3912_manual_V1.5_2020.05.05.pdf",
+     "quote": "the maximum weight capacity of this unit is 330 pounds",
+     "src_type": "manual"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "No current Sunny product page; the only maker figure is from Sunny's assembly guide.",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 16.5,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0
+   },
+   "score": 21,
+   "class_median_stored_volume_cu_in": null
+  },
+  {
+   "id": "schwinn-411",
+   "class": "compact_elliptical",
+   "name": "Schwinn 411 Compact Elliptical",
+   "maker": "Schwinn",
+   "maker_url": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+   "asin": "",
+   "on_pages": [],
+   "cells": {
+    "use_l": {
+     "value": "53.8",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Dimensions 53.8\" L x 24\" W x 62.5\" H",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "24",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Dimensions 53.8\" L x 24\" W x 62.5\" H",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "62.5",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Dimensions 53.8\" L x 24\" W x 62.5\" H",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "100",
+     "unit": "lb",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Assembled Product Weight 100 lbs",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Maximum User Weight 300 lbs",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stride": {
+     "value": "18",
+     "unit": "in",
+     "src": "https://www.schwinnfitness.com/products/schwinn-411-elliptical",
+     "quote": "Featuring an 18\" stride",
+     "src_type": "maker"
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 15.0,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0
+   },
+   "score": 19,
+   "class_median_stored_volume_cu_in": null
+  },
+  {
+   "id": "sunny-sf-e323057",
+   "class": "compact_elliptical",
+   "name": "Sunny SF-E323057 Smart Stand Mini Elliptical",
+   "maker": "Sunny Health & Fitness",
+   "maker_url": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+   "asin": "B0CYMZC1VQ",
+   "on_pages": [
+    "best-elliptical-for-a-small-room-and-low-ceiling"
+   ],
+   "cells": {
+    "use_l": {
+     "value": "33.3",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Product Dimensions 33.3L x 18.5W x 50.6H in",
+     "src_type": "maker"
+    },
+    "use_w": {
+     "value": "18.5",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Product Dimensions 33.3L x 18.5W x 50.6H in",
+     "src_type": "maker"
+    },
+    "use_h": {
+     "value": "50.6",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Product Dimensions 33.3L x 18.5W x 50.6H in",
+     "src_type": "maker"
+    },
+    "stored_l": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_w": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "stored_h": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "weight": {
+     "value": "34.2",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Product Weight 34.2 lb",
+     "src_type": "maker"
+    },
+    "max_user": {
+     "value": "300",
+     "unit": "lb",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Max User Weight 300 lb",
+     "src_type": "maker"
+    },
+    "hp_continuous": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "noise": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "belt": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "step_up": {
+     "value": "9.8",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Pedal Step Height Min 3.5 in/Max 9.8 in",
+     "src_type": "maker"
+    },
+    "stride": {
+     "value": "7",
+     "unit": "in",
+     "src": "https://sunnyhealthfitness.com/products/compact-smart-magnetic-elliptical-trainer-with-handlebar-and-resistance-bands-sf-e323057",
+     "quote": "Stride Length 7 in",
+     "src_type": "maker"
+    },
+    "fits_under": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    },
+    "fold": {
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
+    }
+   },
+   "note": "",
+   "score_parts": {
+    "stored_volume": 0.0,
+    "max_user_weight": 15.0,
+    "fold_stated": 0.0,
+    "noise_claim": 0.0
+   },
+   "score": 19,
+   "class_median_stored_volume_cu_in": null
+  }
+ ],
+ "score_formula": "stored volume vs class median min(40, 20 x median/volume) (20 at median); max user weight 20 x weight/class max; continuous HP published 20 (motorized only); fold or storage stated 10; noise claim 10; score = 100 x points/available (100 motorized, 80 unpowered); unpublished = 0"
+}
