@@ -1,6 +1,6 @@
 # Sharknative open data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23645940.svg)](https://doi.org/10.5281/zenodo.23645940)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23645939.svg)](https://doi.org/10.5281/zenodo.23645939)
 
 Sharknative publishes product-research sites; these are the open data tables behind their tools. Each table holds maker-published specs with a source URL per cell. Cells with no published figure are left blank. The canonical, latest copy of every table lives on its page; this repo mirrors those files for people who prefer git, CSV or JSON.
 
@@ -20,7 +20,7 @@ Each folder has the CSV, the JSON and a README with the source page, the gatheri
 
 ## Cite
 
-Sharknative (2026). *Sharknative open data: maker-published spec tables* (v2026.10.25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23645940
+Sharknative (2026). *Sharknative open data: maker-published spec tables* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23645939
 
 ## License
 
