@@ -1,7 +1,7 @@
 {
-  "title": "Sharknative open data: maker-published spec tables for countertop appliances, castable sonar, office espresso machines, first 3D printers and small-space fitness gear",
+  "title": "Sharknative open data: maker-published spec tables for countertop appliances, castable sonar, office espresso machines, first 3D printers, small-space fitness gear and automatic litter boxes",
   "upload_type": "dataset",
-  "description": "<p>Open CC BY 4.0 spec tables behind five product-research tools. Each table holds maker-published specifications with a source URL per cell; cells with no published figure are left blank. Every dataset folder has the CSV, the JSON and a README with the source page, the gathering method and a citation line. The canonical, latest copy of each table lives on its page:</p><ul><li><a href=\"https://countertopcheck.com/fit/\">Countertop appliance heights and cabinet clearances (CounterTopCheck)</a></li><li><a href=\"https://anglerleague.com/castable-sonar-index/\">Castable Sonar Spec Index (AnglerLeague)</a></li><li><a href=\"https://cremacheck.com/office/\">Office espresso machine data (CremaCheck)</a></li><li><a href=\"https://firstprintcheck.com/tools/first-printer-picker/\">First-printer data (FirstPrintCheck)</a></li><li><a href=\"https://wellnessrundown.com/small-space-index/\">Small-Space Fitness Index (Wellness Rundown)</a></li></ul>",
+  "description": "<p>Open CC BY 4.0 spec tables behind six product-research tools. Each table holds maker-published specifications with a source URL per cell; cells with no published figure are left blank. Every dataset folder has the CSV, the JSON and a README with the source page, the gathering method and a citation line. The canonical, latest copy of each table lives on its page:</p><ul><li><a href=\"https://countertopcheck.com/fit/\">Countertop appliance heights and cabinet clearances (CounterTopCheck)</a></li><li><a href=\"https://anglerleague.com/castable-sonar-index/\">Castable Sonar Spec Index (AnglerLeague)</a></li><li><a href=\"https://cremacheck.com/office/\">Office espresso machine data (CremaCheck)</a></li><li><a href=\"https://firstprintcheck.com/tools/first-printer-picker/\">First-printer data (FirstPrintCheck)</a></li><li><a href=\"https://wellnessrundown.com/small-space-index/\">Small-Space Fitness Index (Wellness Rundown)</a></li><li><a href=\"https://vettedfur.com/data/automatic-litter-boxes/\">Automatic litter box spec table (VettedFur)</a></li></ul>",
   "creators": [
     {
       "name": "Sharknative"
@@ -17,7 +17,8 @@
     "fish finders",
     "espresso machines",
     "3D printers",
-    "home fitness"
+    "home fitness",
+    "pet products"
   ],
   "related_identifiers": [
     {
@@ -42,6 +43,11 @@
     },
     {
       "identifier": "https://wellnessrundown.com/small-space-index/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://vettedfur.com/data/automatic-litter-boxes/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },

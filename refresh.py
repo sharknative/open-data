@@ -23,6 +23,8 @@ DATASETS = [
     ("firstprintcheck-first-printers", "first-printers.json", "https://firstprintcheck.com/first-printers.json"),
     ("wellnessrundown-small-space-index", "small-space-index.csv", "https://wellnessrundown.com/small-space-index/small-space-index.csv"),
     ("wellnessrundown-small-space-index", "small-space-index.json", "https://wellnessrundown.com/small-space-index/small-space-index.json"),
+    ("vettedfur-automatic-litter-boxes", "automatic-litter-boxes.csv", "https://vettedfur.com/data/automatic-litter-boxes.csv"),
+    ("vettedfur-automatic-litter-boxes", "automatic-litter-boxes.json", "https://vettedfur.com/data/automatic-litter-boxes.json"),
 ]
 
 

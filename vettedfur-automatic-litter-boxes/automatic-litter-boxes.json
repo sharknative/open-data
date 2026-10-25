@@ -1,0 +1,1130 @@
+{
+ "_readme": "VettedFur automatic litter box spec data, as of 2026-10-21. One record per box in the table at https://vettedfur.com/data/automatic-litter-boxes/. Every spec cell is {v, url, q}: the value shown, the maker page it came from and the exact phrase on that page. null = the maker does not publish that number. refill.two is the maker-shop refill cost for one cat over two years in US dollars (low, high); litter is not counted. Amazon prices are not stored here: the page prints Amazon's dated price at build time. cite_html repeats each url + q pair for the quote checker and is dropped from the public download.",
+ "asOf": "2026-10-21",
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "credit": "VettedFur, Automatic litter box spec table, https://vettedfur.com/data/automatic-litter-boxes/",
+ "boxes": [
+  {
+   "id": "m1plus",
+   "name": "Neakasa M1 Plus (open top)",
+   "short": "Neakasa M1 Plus",
+   "asin": "B0CSKBWBF6",
+   "img": "/products/neakasa-m1-plus.jpg",
+   "maker": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+   "wmax": 33,
+   "entry": {
+    "v": "open top (no entry opening)",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“the Neakasa M1 features a spacious open-top design”"
+   },
+   "height": {
+    "v": "none (open top)",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“Spacious open top design for cats from 2.2 lbs to 33 lbs”"
+   },
+   "weight": {
+    "v": "2.2-33 lb",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“Spacious open top design for cats from 2.2 lbs to 33 lbs”"
+   },
+   "footprint": {
+    "v": "22.83 x 19.69 x 26.83 in (W x D x H)",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“Product Dimensions: 22.83\" W x 19.69\" D x 26.83\" H”"
+   },
+   "drawer": {
+    "v": "11.23 L, up to 14 days (1 cat)",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“Waste Bin Capacity 11.23L (Up to 14 Days)”"
+   },
+   "app": {
+    "v": "Neakasa app",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“Smart Control Android/iOS App”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "Neakasa M1 waste bags",
+    "two": [
+     35,
+     49
+    ],
+    "math": "Neakasa shop: 30 bags $19.99; one bag every 10-14 days for one cat",
+    "src": [
+     {
+      "url": "https://neakasa.com/products/m1-waste-bags",
+      "q": "“Estimated Usage: 10-14 days per bag (for a one-cat household)”"
+     },
+     {
+      "url": "https://neakasa.com/products/m1-waste-bags",
+      "q": "“price 19.99 pricecurrency usd”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Kitten Mode (cats under 2.2 lb) switches automatic cleaning off.",
+    "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+    "q": "“the litter box will not be cleaned automatically in this mode”"
+   }
+  },
+  {
+   "id": "lr4",
+   "name": "Whisker Litter-Robot 4",
+   "short": "Litter-Robot 4",
+   "asin": "B0BH6MD3DJ",
+   "img": "/products/litter-robot-4-black-step-fence.jpg",
+   "maker": "https://www.litter-robot.com/litter-robot-4.html",
+   "wmax": 25,
+   "entry": {
+    "v": "15.75 x 15.75 in",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“Entryway: 15.75\" x 15.75\"”"
+   },
+   "height": {
+    "v": "16.5 in interior",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“an interior height of 16.5”"
+   },
+   "weight": {
+    "v": "3-25 lb",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“Litter-Robot 4 is suitable for cats that weigh 3-25 lbs”"
+   },
+   "footprint": {
+    "v": "22 x 27 x 29.5 in",
+    "url": "https://www.litter-robot.com/eu/faq.html",
+    "q": "“Litter-Robot 4 dimensions Height: 29.5\" (74.9cm) Width: 22\" (55.8cm) Depth: 27\" (68.6cm)”"
+   },
+   "drawer": {
+    "v": "5.5 H x 13.5 W x 9.25 D in drawer (no liters stated); empty as rarely as every 8 days",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“empty the Litter-Robot 4 waste drawer as low as once every 8 days”"
+   },
+   "app": {
+    "v": "Wi-Fi app; 7-day history free, 2 years with Whisker+",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“upgrade to a Whisker+ membership with Litter-Robot 4, you will receive up to 2 years”"
+   },
+   "refill": {
+    "need": "optional",
+    "what": "Carbon filters (optional); runs on any clumping litter",
+    "two": [
+     0,
+     0
+    ],
+    "opt": 120,
+    "math": "Whisker shop: carbon filter 6-pack $30, one filter a month is 2 packs a year (optional)",
+    "src": [
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“Replace the carbon filter every month”"
+     },
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“6 Pack Special Price $21 Regular Price $30”"
+     },
+     {
+      "url": "https://www.litter-robot.com/litter-robot-4-carbon-filters-6pk.html",
+      "q": "“Not required for Litter-Robot 4 to function”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "The free app shows 7 days of history; the 2-year history needs a paid Whisker+ plan.",
+    "url": "https://www.litter-robot.com/litter-robot-4.html",
+    "q": "“you'll have access to a 7-day look at your cats”"
+   }
+  },
+  {
+   "id": "opensky",
+   "name": "PetSafe ScoopFree OpenSky (open top)",
+   "short": "PetSafe ScoopFree OpenSky",
+   "asin": "B0DTHVL2DW",
+   "img": "/products/petsafe-scoopfree-opensky-litter-box.jpg",
+   "maker": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+   "wmax": 33,
+   "entry": {
+    "v": "open top (no entry opening)",
+    "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+    "q": "“Spacious open entry design”"
+   },
+   "height": null,
+   "weight": {
+    "v": "up to 33 lb",
+    "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+    "q": "“accommodating cats up to 33 lbs”"
+   },
+   "footprint": {
+    "v": "20 x 18.8 x 24 in",
+    "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+    "q": "“Product Dimensions 20 x 18.8 x 24 inches”"
+   },
+   "drawer": {
+    "v": "8.5 L, up to 2 weeks for one cat",
+    "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+    "q": "“8.5 L waste drawer capacity stores up to two weeks of clumps for one cat”"
+   },
+   "app": {
+    "v": "2.4 GHz Wi-Fi app",
+    "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+    "q": "“real-time tracking of weight and litter box usage via 2.4 GHz Wi-Fi”"
+   },
+   "refill": {
+    "need": "none",
+    "what": "None required; works with most clumping litters",
+    "two": [
+     0,
+     0
+    ],
+    "math": "",
+    "src": [
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-opensky-self-cleaning-litter-box/ZAL00-18120/",
+      "q": "“works with most clumping litter types”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "PetSafe's manual warns that pine or tofu pellet litter can fail to work in it.",
+    "url": "https://cdn.sanity.io/files/d075r9p6/production/eb94df77ef65dca47b79dec2111de7c5ef8c7644.pdf",
+    "q": "“litter with larger pellets, such as pine or tofu litter, may not be compatible”"
+   }
+  },
+  {
+   "id": "lr5",
+   "name": "Whisker Litter-Robot 5",
+   "short": "Litter-Robot 5",
+   "asin": null,
+   "img": "/products/litter-robot-5-whisker.jpg",
+   "maker": "https://www.litter-robot.com/litter-robot-5.html",
+   "wmax": 30,
+   "entry": {
+    "v": "15.75 x 15.75 in",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“Entryway: 15.75\" x 15.75\"”"
+   },
+   "height": {
+    "v": "17.5 in interior",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“an interior height of 17.5”"
+   },
+   "weight": {
+    "v": "3-30 lb",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“Litter-Robot 5 is suitable for cats that weigh 3-30 lbs”"
+   },
+   "footprint": {
+    "v": "22 x 27 x 29.9 in",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“Footprint: 22\" x 27\"”"
+   },
+   "drawer": {
+    "v": "up to 10 days (1 cat); capacity not stated",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“go up to 10 days between emptying the waste drawer in a one-cat household”"
+   },
+   "app": {
+    "v": "Wi-Fi app; 7-day history free, 2 years with Whisker+",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“upgrade to a Whisker+ membership with Litter-Robot 5, you will receive up to 2 years”"
+   },
+   "refill": {
+    "need": "optional",
+    "what": "Carbon filters (optional); runs on any clumping litter",
+    "two": [
+     0,
+     0
+    ],
+    "opt": 120,
+    "math": "Whisker shop: carbon filter 6-pack $30, one filter a month is 2 packs a year (optional)",
+    "src": [
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“Replace the carbon filter every month”"
+     },
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“6 Pack Special Price $21 Regular Price $30”"
+     },
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“compatible with all Litter-Robot models except Litter-Robot 3”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "On the camera Pro version, telling cats apart by face needs a paid Whisker+ plan.",
+    "url": "https://www.litter-robot.com/litter-robot-5.html",
+    "q": "“visual cat recognition requires Whisker+ membership”"
+   }
+  },
+  {
+   "id": "lr-evo",
+   "name": "Whisker Litter-Robot EVO",
+   "short": "Litter-Robot EVO",
+   "asin": "B0G6GDC4VN",
+   "img": "/products/litter-robot-evo.jpg",
+   "maker": "https://www.litter-robot.com/litter-robot-evo.html",
+   "wmax": 19,
+   "entry": {
+    "v": "14.85 x 14.85 in",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“Entryway: 14.85\" x 14.85\"”"
+   },
+   "height": {
+    "v": "14.5 in (the EVO manual lists 16.5 in inside the globe)",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“an interior height of 14.5”"
+   },
+   "weight": {
+    "v": "3-19 lb",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“Litter-Robot EVO is suitable for cats that weigh 3-19 lbs”"
+   },
+   "footprint": {
+    "v": "20.6 x 24.3 x 27.6 in",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“Footprint: 20.6\" x 24.3\"”"
+   },
+   "drawer": {
+    "v": "3.80 H x 11.75 W x 11.00 D in drawer (no liters stated); up to 7 days (1 cat)",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“go up to 7 days between emptying the waste drawer for a one-cat household”"
+   },
+   "app": {
+    "v": "Wi-Fi app; extra insights with Whisker+",
+    "url": "https://www.litter-robot.com/manual_pdf/Litter-Robot-EVO-Manual.pdf",
+    "q": "“enhanced pet identification and weight measurement features available with a Whisker subscription”"
+   },
+   "refill": {
+    "need": "optional",
+    "what": "Carbon filters (optional); runs on any clumping litter",
+    "two": [
+     0,
+     0
+    ],
+    "opt": 120,
+    "math": "Whisker shop: carbon filter 6-pack $30, one filter a month is 2 packs a year (optional)",
+    "src": [
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“Replace the carbon filter every month”"
+     },
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“6 Pack Special Price $21 Regular Price $30”"
+     },
+     {
+      "url": "https://www.whisker.com/litter-robot-carbon-filters",
+      "q": "“compatible with all Litter-Robot models except Litter-Robot 3”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Rated to 19 lb and 2 cats; Whisker itself sends large or tall cats to the LR5 or LR4.",
+    "url": "https://www.litter-robot.com/litter-robot-evo.html",
+    "q": "“If you have an especially large or tall cat, consider Litter-Robot 5 or Litter-Robot 4”"
+   }
+  },
+  {
+   "id": "m1lite",
+   "name": "Neakasa M1 Lite Plus (open top)",
+   "short": "Neakasa M1 Lite Plus",
+   "asin": "B0DK6RSFG2",
+   "img": "/products/neakasa-m1-lite-open-top-litter-box.jpg",
+   "maker": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+   "wmax": 33,
+   "entry": {
+    "v": "open top (no entry opening)",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“Spacious Open-Top Design”"
+   },
+   "height": {
+    "v": "none (open top)",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“Spacious Open-Top Design”"
+   },
+   "weight": {
+    "v": "2.2-33 lb",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“fits most cats from small kittens around 2.2 lbs to larger breeds up to around 33 lbs”"
+   },
+   "footprint": null,
+   "drawer": {
+    "v": "11.23 L, up to 14 days (1 cat)",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“waste bin capacity 11.23L 14 days free scooping”"
+   },
+   "app": {
+    "v": "Neakasa app",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“Embrace convenience and remote management with the Neakasa Smart App”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "Neakasa M1 waste bags",
+    "two": [
+     35,
+     49
+    ],
+    "math": "Neakasa shop: 30 bags $19.99; one bag every 10-14 days for one cat",
+    "src": [
+     {
+      "url": "https://neakasa.com/products/m1-waste-bags",
+      "q": "“Estimated Usage: 10-14 days per bag (for a one-cat household)”"
+     },
+     {
+      "url": "https://neakasa.com/products/m1-waste-bags",
+      "q": "“price 19.99 pricecurrency usd”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Ships with one roll of 15 bags and no mat; the M1 Plus box includes more.",
+    "url": "https://neakasa.com/products/m1-lite-self-cleaning-cat-litter-box",
+    "q": "“waste bag 1 roll (15 pcs) value $10”"
+   }
+  },
+  {
+   "id": "smartspin",
+   "name": "PetSafe ScoopFree SmartSpin",
+   "short": "PetSafe ScoopFree SmartSpin",
+   "asin": "B0D4GHS7V6",
+   "img": "/products/petsafe-scoopfree-smartspin.jpg",
+   "maker": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+   "wmax": 25,
+   "entry": {
+    "v": "12 in off the floor (opening size not published)",
+    "url": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+    "q": "“low to the ground at just 12 inches”"
+   },
+   "height": null,
+   "weight": {
+    "v": "up to 25 lb",
+    "url": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+    "q": "“just 12 in from the ground with a cozy design for cats up to 25 lb”"
+   },
+   "footprint": null,
+   "drawer": {
+    "v": "6 L, up to 2 weeks",
+    "url": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+    "q": "“6 liter waste drawer holds up to 2 weeks of clumps and waste”"
+   },
+   "app": {
+    "v": "2.4 GHz Wi-Fi app",
+    "url": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+    "q": "“Wi-Fi required for app connectivity 2.4 GHz”"
+   },
+   "refill": {
+    "need": "none",
+    "what": "None required; any clumping or non-clumping litter",
+    "two": [
+     0,
+     0
+    ],
+    "math": "",
+    "src": [
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-smartspin-self-cleaning-litter-box/PAL00-17985/",
+      "q": "“use any clumping or non-clumping litter”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "The product page says up to 2 weeks between emptying; PetSafe's own user guide says about once a week for one cat.",
+    "url": "https://cdn.sanity.io/files/d075r9p6/production/cf8710e7a43fdf462cbeb47ef6f07a74f41778c8.pdf",
+    "q": "“empty the waste drawer about once a week for one cat, twice a week for two cats”"
+   }
+  },
+  {
+   "id": "puramax2",
+   "name": "PETKIT PuraMax 2",
+   "short": "PETKIT PuraMax 2",
+   "asin": "B0DFYF2D7D",
+   "img": "/products/petkit-puramax-2-self-cleaning-litter-box.jpg",
+   "maker": "https://instructions.petkit.com/App%20Manual/T4-2/20260202/T4-2_User%20Manual_EN_V1.3_20260202.pdf",
+   "wmax": 22,
+   "entry": null,
+   "height": null,
+   "weight": {
+    "v": "3.3-22 lb",
+    "url": "https://www.petkit.com/blogs/blog/2026-petkit-best-automatic-litter-boxes-ultimate-buying-guide",
+    "q": "“cat weight limit over 3.3 lbs (1.5 kg) 3.3 lbs (1.5 kg) to 22 lbs (10 kg) 3.3 lbs (1.5 kg) to 22 lbs (10 kg) 3.3 lbs (1.5 kg) to 22 lbs (10 kg)”"
+   },
+   "footprint": {
+    "v": "24.41 x 21.18 x 21.73 in",
+    "url": "https://instructions.petkit.com/App%20Manual/T4-2/20260202/T4-2_User%20Manual_EN_V1.3_20260202.pdf",
+    "q": "“620 x 538 x 552 mm (24.41 x 21.18 x 21.73 in)”"
+   },
+   "drawer": {
+    "v": "up to 15 days for one cat (bin size not published)",
+    "url": "https://www.petkit.com/blogs/blog/2026-petkit-best-automatic-litter-boxes-ultimate-buying-guide",
+    "q": "“max cleaning period per cat 30 days 20 days 17 days 15 days”"
+   },
+   "app": {
+    "v": "PETKIT app (Wi-Fi + Bluetooth)",
+    "url": "https://instructions.petkit.com/App%20Manual/T4-2/20260202/T4-2_User%20Manual_EN_V1.3_20260202.pdf",
+    "q": "“Wi-Fi, BLE”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "N50 waste-bin deodorizer",
+    "two": [
+     162,
+     162
+    ],
+    "math": "PETKIT shop: N50 3-pack $19.99, one piece every 30 days",
+    "src": [
+     {
+      "url": "https://www.petkit.com/products/odor-eliminator-n50",
+      "q": "“One piece can be used for 30 days, 3 pieces in total”"
+     },
+     {
+      "url": "https://www.petkit.com/products/odor-eliminator-n50",
+      "q": "“sale price $19.99”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "No camera: PETKIT's own guide says it does not include visual image capture.",
+    "url": "https://www.petkit.com/blogs/blog/2026-petkit-best-automatic-litter-boxes-ultimate-buying-guide",
+    "q": "“but does not include visual image capture”"
+   }
+  },
+  {
+   "id": "maxpro2",
+   "name": "PETKIT Purobot Max Pro 2 (camera)",
+   "short": "PETKIT Purobot Max Pro 2",
+   "asin": "B0DFYLFFG1",
+   "img": "/products/petkit-purobot-max-pro-2-litter-box.jpg",
+   "maker": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+   "wmax": 22,
+   "entry": {
+    "v": "10.51 x 10.74 in (267 x 273 mm)",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“entry size 10.51*10.74 in (267*273 mm)”"
+   },
+   "height": null,
+   "weight": {
+    "v": "3.3-22 lb",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“Cat Weight Limit: 3.3 - 22 lbs (1.5-10 kg)”"
+   },
+   "footprint": {
+    "v": "25.86 x 21.18 x 23.74 in (W x D x H)",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“Dimensions (W*D*H): 25.86*21.18*23.74 in”"
+   },
+   "drawer": {
+    "v": "8 L, up to 17 days (1 cat)",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“with its 8L waste bin and contactless drawstring waste packing, Purobot Max Pro 2 can provide up to 17 days without scooping for a single cat”"
+   },
+   "app": {
+    "v": "Wi-Fi app (2.4/5 GHz); video history needs Care+",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“upgrade to PETKIT Care+ for 30-day video history”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "N50 bin deodorizer + N60 drum deodorizer",
+    "two": [
+     243,
+     270
+    ],
+    "math": "PETKIT shop: N50 3-pack $19.99 (30 days each) + N60 3-pack $19.99 (45-60 days each)",
+    "src": [
+     {
+      "url": "https://www.petkit.com/products/odor-eliminator-n50",
+      "q": "“One piece can be used for 30 days, 3 pieces in total”"
+     },
+     {
+      "url": "https://www.petkit.com/products/odor-eliminator-n50",
+      "q": "“sale price $19.99”"
+     },
+     {
+      "url": "https://www.petkit.com/products/pet-odor-eliminator-n60",
+      "q": "“each piece provides 45-60 days of odor control”"
+     },
+     {
+      "url": "https://www.petkit.com/products/pet-odor-eliminator-n60",
+      "q": "“sale price $19.99”"
+     },
+     {
+      "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+      "q": "“N50 filters the bin, N60 refreshes the cylinder air”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Video history from the camera needs a paid PETKIT Care+ plan.",
+    "url": "https://www.petkit.com/products/purobot-max-pro-2-automatic-cat-litter-box-with-ai-camera",
+    "q": "“upgrade to PETKIT Care+ for 30-day video history”"
+   }
+  },
+  {
+   "id": "ultra",
+   "name": "PETKIT Purobot Ultra (camera, auto-bagging)",
+   "short": "PETKIT Purobot Ultra",
+   "asin": "B0DFYJ29XG",
+   "img": "/products/petkit-purobot-ultra-litter-box.jpg",
+   "maker": "https://www.petkit.com/products/purobot-ultra",
+   "wmax": 22,
+   "entry": {
+    "v": "9.84 x 8.54 in (250 x 217 mm)",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“entry size: 9.84*8.54 in (250*217 mm)”"
+   },
+   "height": null,
+   "weight": {
+    "v": "3.3-22 lb",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“Cat Weight Limit: 3.3 - 22 lbs (1.5-10 kg)”"
+   },
+   "footprint": {
+    "v": "20.94 x 32.20 x 24.09 in (W x D x H)",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“Dimensions (W*D*H): 20.94*32.20*24.09 in”"
+   },
+   "drawer": {
+    "v": "10 L, up to 20 days (1 cat)",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“the 10L extra large waste bin supports up to 20 days without scooping for one cat”"
+   },
+   "app": {
+    "v": "Wi-Fi app (2.4/5 GHz); video history needs Care+",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“upgrade to PETKIT Care+ for 30-day video history”"
+   },
+   "refill": {
+    "need": "required",
+    "what": "Refill Ring bag cartridges (NFC-coded) + N60 deodorizer",
+    "two": [
+     125,
+     152
+    ],
+    "math": "PETKIT shop: Refill Ring 3-pack $35.99 (about 10 packs per ring, 20-day bin) + N60 3-pack $19.99",
+    "src": [
+     {
+      "url": "https://www.petkit.com/products/purobot-ultra",
+      "q": "“one piece of refill ring can pack approximately 10 times and the waste bin can hold one cat's waste for up to 20 days”"
+     },
+     {
+      "url": "https://www.petkit.com/products/refill-ring",
+      "q": "“price 35.99 pricecurrency usd”"
+     },
+     {
+      "url": "https://www.petkit.com/products/refill-ring",
+      "q": "“Built-in NFC recognition”"
+     },
+     {
+      "url": "https://www.petkit.com/products/pet-odor-eliminator-n60",
+      "q": "“each piece provides 45-60 days of odor control”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "The narrowest door of the PETKIT drums (9.84 x 8.54 in), and the packing module lifts while it runs, so leave headroom.",
+    "url": "https://www.petkit.com/products/purobot-ultra",
+    "q": "“the packing module is engineered to lift up during operation”"
+   }
+  },
+  {
+   "id": "cs106",
+   "name": "Homerunpet CS106 (106L)",
+   "short": "Homerunpet CS106",
+   "asin": "B0FMK959L5",
+   "img": "/products/homerunpet-cs106.jpg",
+   "maker": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+   "wmax": 25,
+   "entry": null,
+   "height": null,
+   "weight": {
+    "v": "up to 25 lb (3.3 lb and 6 months minimum)",
+    "url": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+    "q": "“106L dome for cats up to 25 lbs”"
+   },
+   "footprint": {
+    "v": "27.44 x 23.62 x 28.07 in",
+    "url": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+    "q": "“Dimensions 27.44 × 23.62 × 28.07 (inches)”"
+   },
+   "drawer": {
+    "v": "12 L, up to 20 days (1 cat); 7 days for 3 cats",
+    "url": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+    "q": "“12L waste bin for up to 20 hands-free days”"
+   },
+   "app": {
+    "v": "optional Wi-Fi app; works without it",
+    "url": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+    "q": "“doesn't require Wi-Fi or an app to work”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "Fresh Gel deodorizer + CS106 waste bags",
+    "two": [
+     184,
+     184
+    ],
+    "math": "homerunPET shop: gel 3-pack $19.99 (one a month), 30 bags $19.99 (one per 20-day bin)",
+    "src": [
+     {
+      "url": "https://homerunpet.com/products/fresh-gel-deodorizer-for-self-cleaning-litter-box-cs106",
+      "q": "“1-month use per refill”"
+     },
+     {
+      "url": "https://homerunpet.com/products/fresh-gel-deodorizer-for-self-cleaning-litter-box-cs106",
+      "q": "“Sale price $19.99 Quantity 3Pcs”"
+     },
+     {
+      "url": "https://homerunpet.com/products/waste-bags-for-cs106-self-cleaning-litter-box",
+      "q": "“Sale price $19.99 Quantity 30Pcs”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "homerunPET publishes no entry size or interior height in numbers, only that a cat can stand and turn.",
+    "url": "https://homerunpet.com/products/cs106-self-cleaning-litter-box",
+    "q": "“Go tall: Allows your cat to stand and turn without feeling cramped”"
+   }
+  },
+  {
+   "id": "openx",
+   "name": "CATLINK Scooper Open-X (single cat)",
+   "short": "CATLINK Open-X",
+   "asin": "B0GD73F98D",
+   "img": "/products/catlink-open-x-self-cleaning-litter-box.jpg",
+   "maker": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+   "wmax": null,
+   "entry": {
+    "v": "open top (13.8 in step-in height)",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“Say goodbye to cramped litter boxes with an open design”"
+   },
+   "height": null,
+   "weight": {
+    "v": "3.3 lb minimum; no maximum published",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“6 months+ 3.3 lbs+”"
+   },
+   "footprint": {
+    "v": "25.6 x 23.6 x 27.5 in (L x W x H)",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“Product Dimensions (L×W×H): 25.6\" × 23.6\" × 27.5\"”"
+   },
+   "drawer": {
+    "v": "12 L, up to 15 days (1 cat); 4-7 days for 2 cats",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“a spacious 12L waste drawer means one cat can use it for up to 15 days”"
+   },
+   "app": {
+    "v": "Wi-Fi app (2.4/5 GHz); multi-cat ID $30 one-time",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“unlocked in the app for a one-time fee of $30, with lifetime access”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "C70 odor eliminator + Open-X waste bags",
+    "two": [
+     204,
+     204
+    ],
+    "math": "CATLINK shop: odor eliminator 3-pack $18.99 (30 days each), 2 rolls of 20 bags $19.90 (one bag a week)",
+    "src": [
+     {
+      "url": "https://www.catlinkus.com/products/odor-eliminator-refill-pack-for-all-catlink-cat-litter-box",
+      "q": "“provides up to 30 days of continuous odor control per unit”"
+     },
+     {
+      "url": "https://www.catlinkus.com/products/odor-eliminator-refill-pack-for-all-catlink-cat-litter-box",
+      "q": "“$18.99”"
+     },
+     {
+      "url": "https://www.catlinkus.com/products/catlink-waste-bag-for-scooper-open-x",
+      "q": "“When replaced once every 7 days, one roll lasts up to 140 days”"
+     },
+     {
+      "url": "https://www.catlinkus.com/products/catlink-waste-bag-for-scooper-open-x",
+      "q": "“$19.90”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "This is the single-cat version; telling cats apart is a one-time $30 in-app unlock.",
+    "url": "https://www.catlinkus.com/products/catlink-self-cleaning-litter-box-scooper-open-x-single-cat",
+    "q": "“This Scooper version is designed for single-cat households only”"
+   }
+  },
+  {
+   "id": "snowplus",
+   "name": "PetSnowy SNOW+",
+   "short": "PetSnowy SNOW+",
+   "asin": "B0CFVJ71GZ",
+   "img": "/products/petsnowy-snow-plus-self-cleaning-litter-box.jpg",
+   "maker": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+   "wmax": 20,
+   "entry": {
+    "v": "14.9 x 9.05 in (with ramp)",
+    "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“Entryway with Ramp Dimension 14.9 x 9.05 inches”"
+   },
+   "height": {
+    "v": "19.68 in globe diameter (no interior height published)",
+    "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“Globe Capacity 2ft3 (19.68 in diameter)”"
+   },
+   "weight": {
+    "v": "3.3-20 lb",
+    "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“Recommended Cat Weight 3.3-20 lbs”"
+   },
+   "footprint": {
+    "v": "29.5 x 20 x 25.6 in",
+    "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“Product Dimension 29.5 x 20 x 25.6 inches”"
+   },
+   "drawer": {
+    "v": "10 L (2.6 gal), up to 14 days (1 cat)",
+    "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“Waste Drawer Volume 2.6 gal (10L)”"
+   },
+   "app": {
+    "v": "Wi-Fi + Bluetooth app",
+    "url": "https://petsnowy.com/products/snow-self-cleaning-litter-box",
+    "q": "“2.4GHz Wi-Fi + Bluetooth”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "SNOW+ self-packing waste liners",
+    "two": [
+     86,
+     86
+    ],
+    "math": "PetSnowy shop: 50 liners $59; one liner every 10 days for an 8.8-19.6 lb cat",
+    "src": [
+     {
+      "url": "https://shop.petsnowy.com/products/snow-self-cleaning-litter-box",
+      "q": "“4-8.9 kg (8.8-19.6 lbs) Up to 10 days”"
+     },
+     {
+      "url": "https://shop.petsnowy.com/products/snow-waste-drawer-liners",
+      "q": "“$59.00”"
+     },
+     {
+      "url": "https://shop.petsnowy.com/products/snow-waste-drawer-liners",
+      "q": "“50 Pcs”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "PetSnowy says problems caused by non-official consumables can fall outside its performance guarantee.",
+    "url": "https://petsnowy.com/pages/consumables-guide",
+    "q": "“may not be within official performance guarantee scope”"
+   }
+  },
+  {
+   "id": "complete-smart",
+   "name": "PetSafe ScoopFree Crystal Smart (Wi-Fi, uncovered)",
+   "short": "PetSafe ScoopFree Crystal Smart",
+   "asin": "B087C6XZCL",
+   "img": "/products/petsafe-scoopfree-complete-smart-self-cleaning-cat-litter-bo.jpg",
+   "maker": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+   "wmax": null,
+   "entry": {
+    "v": "open tray (uncovered version)",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“available as uncovered or hooded front-entry”"
+   },
+   "height": {
+    "v": "6.2 in tall overall (uncovered)",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“Product Dimensions (Uncovered) 27.6 x 19.1 x 6.2 inches”"
+   },
+   "weight": null,
+   "footprint": {
+    "v": "27.6 x 19.1 x 6.2 in (uncovered)",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“Product Dimensions (Uncovered) 27.6 x 19.1 x 6.2 inches”"
+   },
+   "drawer": {
+    "v": "disposable tray, about once a month (one cat)",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“change out the disposable tray just once a month”"
+   },
+   "app": {
+    "v": "Wi-Fi app with tray-change alerts",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“custom alerts remind you to change trays”"
+   },
+   "refill": {
+    "need": "required",
+    "what": "PetSafe disposable crystal trays (the box takes crystal trays only)",
+    "two": [
+     568,
+     852
+    ],
+    "math": "PetSafe shop: 6-pack of trays $139.99; one tray every 20-30 days for one cat is 12-18 trays a year",
+    "src": [
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-premium-blue-crystal-litter-trays-6-pack/PAC00-14377/",
+      "q": "“Fresh Crystal 6 Pack 35% off first autoship 139.99”"
+     },
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-premium-blue-crystal-litter-trays-1-pack/PAC00-14229/",
+      "q": "“in a single-cat household, one tray can last up to 30 days”"
+     },
+     {
+      "url": "https://support.petsafe.net/product-support/scoopfree-ultra-self-cleaning-litter-box/",
+      "q": "“replacing the litter tray every 20 - 30 days for one cat, every 10 - 15 days for 2 cats, or every 7 - 10 days for 3 cats”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Crystal litter only, so the trays are the running cost, not any litter you choose.",
+    "url": "https://www.petsafe.com/p/smart-self-cleaning-litter-box-scoopfree/PAL00-16807/",
+    "q": "“designed for use with crystal litter only”"
+   }
+  },
+  {
+   "id": "crystal-classic",
+   "name": "PetSafe ScoopFree Crystal Classic",
+   "short": "PetSafe ScoopFree Crystal Classic",
+   "asin": "B0CFRY7VYN",
+   "img": "/products/petsafe-scoopfree-crystal-classic.jpg",
+   "maker": "https://www.petsafe.com/p/scoopfree-classic-self-cleaning-litter-box/PAL00-17296/",
+   "wmax": 15,
+   "entry": null,
+   "height": null,
+   "weight": {
+    "v": "up to 15 lb",
+    "url": "https://www.petsafe.com/p/scoopfree-classic-self-cleaning-litter-box/PAL00-17296/",
+    "q": "“designed for cats up to 15 pounds”"
+   },
+   "footprint": {
+    "v": "20.4 x 7.1 x 28.0 in",
+    "url": "https://www.petsafe.com/p/scoopfree-classic-self-cleaning-litter-box/PAL00-17296/",
+    "q": "“Product Dimensions 20.4 x 7.1 x 28.0 inches”"
+   },
+   "drawer": {
+    "v": "disposable tray, lasts weeks",
+    "url": "https://www.petsafe.com/p/scoopfree-classic-self-cleaning-litter-box/PAL00-17296/",
+    "q": "“eliminates the need for cleaning and refilling for weeks”"
+   },
+   "app": null,
+   "refill": {
+    "need": "required",
+    "what": "PetSafe disposable crystal trays (the box takes crystal trays only)",
+    "two": [
+     568,
+     852
+    ],
+    "math": "PetSafe shop: 6-pack of trays $139.99; one tray every 20-30 days for one cat is 12-18 trays a year",
+    "src": [
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-premium-blue-crystal-litter-trays-6-pack/PAC00-14377/",
+      "q": "“Fresh Crystal 6 Pack 35% off first autoship 139.99”"
+     },
+     {
+      "url": "https://www.petsafe.com/p/scoopfree-premium-blue-crystal-litter-trays-1-pack/PAC00-14229/",
+      "q": "“in a single-cat household, one tray can last up to 30 days”"
+     },
+     {
+      "url": "https://support.petsafe.net/product-support/scoopfree-ultra-self-cleaning-litter-box/",
+      "q": "“replacing the litter tray every 20 - 30 days for one cat, every 10 - 15 days for 2 cats, or every 7 - 10 days for 3 cats”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Rated only for cats up to 15 lb, the lowest limit in this table.",
+    "url": "https://www.petsafe.com/p/scoopfree-classic-self-cleaning-litter-box/PAL00-17296/",
+    "q": "“designed for cats up to 15 pounds”"
+   }
+  },
+  {
+   "id": "cumrige-m2",
+   "name": "Cumrige M2 (95L)",
+   "short": "Cumrige M2",
+   "asin": "B0DFM4Z71X",
+   "img": "/products/cumrige-m2-automatic-litter-box.jpg",
+   "maker": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+   "wmax": 16.5,
+   "entry": {
+    "v": "9.84 in wide",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“the M2 entrance is approximately 9.84 inches (25 cm) wide”"
+   },
+   "height": {
+    "v": "about 18.9 in inside (interior 15.75 x 15.35 x 18.90 in)",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“interior dimensions are approximately 15.75 × 15.35 × 18.90 inches”"
+   },
+   "weight": {
+    "v": "up to about 16.5 lb (maker FAQ)",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“best suited for cats weighing up to approximately 16.5 lbs (7.5 kg)”"
+   },
+   "footprint": {
+    "v": "19.69 x 21.65 in, 25.98 in tall",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“Footprint 19.69 × 21.65”"
+   },
+   "drawer": {
+    "v": "15 L, up to 15 days",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“The 15L sealed waste bin stores up to 15 days of waste”"
+   },
+   "app": {
+    "v": "Tuya Smart app (2.4 GHz)",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“Wi-Fi is required for supported app-connected features and remote controls”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "Cumrige drawer liners (sold by the maker)",
+    "two": [
+     20,
+     20
+    ],
+    "math": "Cumrige shop: 60 liners $24.99; one liner per 15-day bin",
+    "src": [
+     {
+      "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+      "q": "“The 15L sealed waste bin stores up to 15 days of waste”"
+     },
+     {
+      "url": "https://cumrige.com/products/cumrige-stretchable-cat-litter-liners-durable",
+      "q": "“3 rolls (20 liners per roll), for a total of 60 litter box liners”"
+     },
+     {
+      "url": "https://cumrige.com/products/cumrige-stretchable-cat-litter-liners-durable",
+      "q": "“24.99”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Sold as a 95L box, but Cumrige's FAQ says it suits cats up to about 16.5 lb and points bigger cats to a roomier or open-top model.",
+    "url": "https://cumrige.com/products/cumrige-self-cleaning-litter-box-m2",
+    "q": "“a model with a more spacious interior or an open-top design may be a better choice”"
+   }
+  },
+  {
+   "id": "petpivot-as11",
+   "name": "PetPivot AutoScooper 11 (open top)",
+   "short": "PetPivot AS11",
+   "asin": "B0D8J5796M",
+   "img": "/products/petpivot-as11-open-top-self-cleaning-litter-box.jpg",
+   "maker": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+   "wmax": null,
+   "entry": {
+    "v": "open top; 15.35 x 15.35 in entryway",
+    "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+    "q": "“Entryway Size 15.35 × 15.35”"
+   },
+   "height": null,
+   "weight": null,
+   "footprint": {
+    "v": "21.25 W x 16.33 D x 24 H in",
+    "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+    "q": "“Dimensions 24 H × 21.25 W × 16.33 D”"
+   },
+   "drawer": {
+    "v": "10 L; empty every 5 days",
+    "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+    "q": "“Empty the waste drawer every 5 days, and do not wait longer than 7 days”"
+   },
+   "app": {
+    "v": "none (no app, no Wi-Fi)",
+    "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+    "q": "“no app, no Wi-Fi, no fuss”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "AS11 waste bags (sold by the maker)",
+    "two": [
+     43,
+     61
+    ],
+    "math": "PetPivot shop: 60 bags $24.99; empty every 5 days, never past 7",
+    "src": [
+     {
+      "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+      "q": "“Empty the waste drawer every 5 days, and do not wait longer than 7 days”"
+     },
+     {
+      "url": "https://petpivot.com/products/petpivot-waste-bag-3-rolls-for-autoscooper-11",
+      "q": "“Sized for the AutoScooper 11 waste drawer. 60 bags, 3 rolls”"
+     },
+     {
+      "url": "https://petpivot.com/products/petpivot-waste-bag-3-rolls-for-autoscooper-11",
+      "q": "“24.99”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "A 10 L bin, yet PetPivot says to empty it every 5 days and never wait past 7.",
+    "url": "https://petpivot.com/products/autoscooper-11-cat-litter-box-gray",
+    "q": "“Empty the waste drawer every 5 days, and do not wait longer than 7 days”"
+   }
+  },
+  {
+   "id": "sc02",
+   "name": "Meowant SC02",
+   "short": "Meowant SC02",
+   "asin": "B0FKFWGKV9",
+   "img": "/products/meowant-sc02-self-cleaning-litter-box.jpg",
+   "maker": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+   "wmax": 22,
+   "entry": {
+    "v": "6.8 in step-in height (width not published)",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“The 6.8-inch ultra-low entrance is friendly for short-legged, overweight, and senior cats”"
+   },
+   "height": null,
+   "weight": {
+    "v": "3.3-22 lb",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“suitable for all kinds of cats weighing 3.3 to 22 pounds”"
+   },
+   "footprint": {
+    "v": "19.3 x 19.3 x 21.45 in",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“19.3 x 19.3 x 21.45 inches”"
+   },
+   "drawer": {
+    "v": "3.6 L (days not published)",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“the SC02 has a 3.6L waste bin and 51.7L toileting space”"
+   },
+   "app": {
+    "v": "AIRPET app, 2.4 GHz Wi-Fi only",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“supports 2.4GHz Wi-Fi only with the AIRPET app”"
+   },
+   "refill": {
+    "need": "maker refill",
+    "what": "Meowant liner rolls",
+    "two": [
+     58,
+     97
+    ],
+    "math": "Meowant shop: 3 rolls (60 liners) $23.99; a new liner every 3-5 days",
+    "src": [
+     {
+      "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+      "q": "“replace the liner every 3 to 5 days”"
+     },
+     {
+      "url": "https://meowant.com/products/meowant-litter-box-liners-roll-pack",
+      "q": "“price 23.99 pricecurrency usd”"
+     }
+    ]
+   },
+   "watch": {
+    "t": "Sold on a 75L figure, but Meowant's own FAQ gives 51.7L of toilet space and a 3.6L bin.",
+    "url": "https://meowant.com/products/meowant-self-cleaning-cat-litter-box-mw-sc02",
+    "q": "“the SC02 has a 3.6L waste bin and 51.7L toileting space”"
+   }
+  }
+ ]
+}

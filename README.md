@@ -12,9 +12,9 @@ Sharknative publishes product-research sites; these are the open data tables beh
 | `anglerleague-castable-sonar-index/` | Castable Sonar Spec Index | 11 | https://anglerleague.com/castable-sonar-index/ |
 | `cremacheck-office-machines/` | Office espresso machine data | 12 | https://cremacheck.com/office/ |
 | `firstprintcheck-first-printers/` | First-printer data | 10 | https://firstprintcheck.com/tools/first-printer-picker/ |
+| `vettedfur-automatic-litter-boxes/` | Automatic litter box spec table | 18 | https://vettedfur.com/data/automatic-litter-boxes/ |
 | `wellnessrundown-small-space-index/` | Small-Space Fitness Index | 29 | https://wellnessrundown.com/small-space-index/ |
 
-Coming: VettedFur automatic litter box specs (https://vettedfur.com/data/automatic-litter-boxes/) once that page publishes a CSV.
 
 Each folder has the CSV, the JSON and a README with the source page, the gathering method, a citation line and, where the site offers one, an iframe embed snippet.
 
@@ -30,4 +30,4 @@ CC BY 4.0 (see `LICENSE`). Credit the brand named in the dataset README and link
 
 `py -3.11 refresh.py` re-downloads every CSV and JSON in the `DATASETS` list from its live URL, writes the files in place and prints which files changed. It does not commit. A weekly scheduled run on Sharknative's side does the same and pushes.
 
-Last checked: 2026-10-24
+Last checked: 2026-10-25
