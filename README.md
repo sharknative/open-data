@@ -1,5 +1,7 @@
 # Sharknative open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23645940.svg)](https://doi.org/10.5281/zenodo.23645940)
+
 Sharknative publishes product-research sites; these are the open data tables behind their tools. Each table holds maker-published specs with a source URL per cell. Cells with no published figure are left blank. The canonical, latest copy of every table lives on its page; this repo mirrors those files for people who prefer git, CSV or JSON.
 
 ## Datasets
@@ -15,6 +17,10 @@ Sharknative publishes product-research sites; these are the open data tables beh
 Coming: VettedFur automatic litter box specs (https://vettedfur.com/data/automatic-litter-boxes/) once that page publishes a CSV.
 
 Each folder has the CSV, the JSON and a README with the source page, the gathering method, a citation line and, where the site offers one, an iframe embed snippet.
+
+## Cite
+
+Sharknative (2026). *Sharknative open data: maker-published spec tables* (v2026.10.25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23645940
 
 ## License
 
