@@ -1,0 +1,54 @@
+{
+  "title": "Sharknative open data: maker-published spec tables for countertop appliances, castable sonar, office espresso machines, first 3D printers and small-space fitness gear",
+  "upload_type": "dataset",
+  "description": "<p>Open CC BY 4.0 spec tables behind five product-research tools. Each table holds maker-published specifications with a source URL per cell; cells with no published figure are left blank. Every dataset folder has the CSV, the JSON and a README with the source page, the gathering method and a citation line. The canonical, latest copy of each table lives on its page:</p><ul><li><a href=\"https://countertopcheck.com/fit/\">Countertop appliance heights and cabinet clearances (CounterTopCheck)</a></li><li><a href=\"https://anglerleague.com/castable-sonar-index/\">Castable Sonar Spec Index (AnglerLeague)</a></li><li><a href=\"https://cremacheck.com/office/\">Office espresso machine data (CremaCheck)</a></li><li><a href=\"https://firstprintcheck.com/tools/first-printer-picker/\">First-printer data (FirstPrintCheck)</a></li><li><a href=\"https://wellnessrundown.com/small-space-index/\">Small-Space Fitness Index (Wellness Rundown)</a></li></ul>",
+  "creators": [
+    {
+      "name": "Sharknative"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "product specifications",
+    "consumer products",
+    "open data",
+    "kitchen appliances",
+    "fish finders",
+    "espresso machines",
+    "3D printers",
+    "home fitness"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://countertopcheck.com/fit/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://anglerleague.com/castable-sonar-index/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://cremacheck.com/office/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://firstprintcheck.com/tools/first-printer-picker/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://wellnessrundown.com/small-space-index/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/sharknative/open-data",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
