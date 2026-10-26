@@ -78,7 +78,8 @@
     "unit": "",
     "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
     "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
-   }
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#bambu-a1-mini"
   },
   {
    "id": "bambu-a1",
@@ -141,7 +142,8 @@
     "unit": "",
     "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
     "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
-   }
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#bambu-a1"
   },
   {
    "id": "bambu-p1s",
@@ -201,7 +203,8 @@
     "unit": "",
     "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
     "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
-   }
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#bambu-p1s"
   },
   {
    "id": "bambu-p2s",
@@ -261,7 +264,8 @@
     "unit": "",
     "src": "https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode",
     "quote": "LAN Mode is a feature that allows Bambu Lab printers to work in a local area network"
-   }
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#bambu-p2s"
   },
   {
    "id": "creality-ender-3-v3-se",
@@ -274,14 +278,40 @@
    "enclosedYes": false,
    "multicolorYes": false,
    "enclosed": null,
-   "build": null,
+   "build": {
+    "value": "220 x 220 x 250",
+    "unit": "mm",
+    "src": "https://www.creality.com/support/creality-ender-3-v3-se",
+    "quote": "Ender-3 V3 SE offers a maximum build volume of 220 × 220 × 250mm"
+   },
    "footprint": null,
-   "nozzle": null,
-   "bed": null,
-   "abs": null,
+   "nozzle": {
+    "value": 260,
+    "unit": "C",
+    "src": "https://www.creality.com/support/creality-ender-3-v3-se",
+    "quote": "Nozzle Temperature 260℃"
+   },
+   "bed": {
+    "value": 100,
+    "unit": "C",
+    "src": "https://www.creality.com/support/creality-ender-3-v3-se",
+    "quote": "Heatbed Temperature 100℃"
+   },
+   "abs": {
+    "value": "PLA, TPU, PETG listed; ABS not listed",
+    "unit": "",
+    "src": "https://www.creality.com/support/creality-ender-3-v3-se",
+    "quote": "Supported Filaments PLA, TPU95A, PETG"
+   },
    "multicolor": null,
    "noise": null,
-   "local": null
+   "local": {
+    "value": "No LAN listed; SD card file transfer",
+    "unit": "",
+    "src": "https://www.creality.com/support/creality-ender-3-v3-se",
+    "quote": "File Transfer SD"
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#creality-ender-3-v3-se"
   },
   {
    "id": "creality-k1c",
@@ -341,7 +371,8 @@
     "src": "https://www.creality.com/products/k1c-carbon-3d-printer",
     "quote": "≤45dB Measured at 1-meter distance, data from Creality Lab."
    },
-   "local": null
+   "local": null,
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#creality-k1c"
   },
   {
    "id": "elegoo-centauri-carbon",
@@ -388,7 +419,8 @@
     "unit": "",
     "src": "https://us.elegoo.com/pages/elegoo-centauri-carbon",
     "quote": "LAN-Enabled Wi-Fi Transfer"
-   }
+   },
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#elegoo-centauri-carbon"
   },
   {
    "id": "flashforge-adventurer-5m",
@@ -438,7 +470,8 @@
    },
    "multicolor": null,
    "noise": null,
-   "local": null
+   "local": null,
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#flashforge-adventurer-5m"
   },
   {
    "id": "flashforge-adventurer-5m-pro",
@@ -493,7 +526,8 @@
     "src": "https://www.flashforge.com/products/adventurer-5m-pro-3d-printer",
     "quote": "Low-noise mode: 50dB; Standard mode: 55dB"
    },
-   "local": null
+   "local": null,
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#flashforge-adventurer-5m-pro"
   },
   {
    "id": "flashforge-ad5x",
@@ -543,7 +577,8 @@
     "quote": "AD5X includes the Intelligent Filament System (IFS) as a standard feature"
    },
    "noise": null,
-   "local": null
+   "local": null,
+   "url": "https://firstprintcheck.com/tools/first-printer-picker/#flashforge-ad5x"
   }
  ]
 }

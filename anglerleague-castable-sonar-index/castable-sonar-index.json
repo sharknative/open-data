@@ -18,7 +18,8 @@
       "bank_score": 85,
       "score_parts": "40 + 15 + 20 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-chirp-4"
     },
     {
       "name": "Deeper CHIRP+ 3",
@@ -35,7 +36,8 @@
       "bank_score": 85,
       "score_parts": "40 + 15 + 20 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-chirp-3"
     },
     {
       "name": "Deeper CHIRP+ 2",
@@ -52,7 +54,8 @@
       "bank_score": 78,
       "score_parts": "33.3 + 15 + 20 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-chirp-2"
     },
     {
       "name": "Garmin Striker Cast GPS",
@@ -69,7 +72,8 @@
       "bank_score": 77,
       "score_parts": "20 + 30 + 16.7 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-garmin-striker-cast-gps"
     },
     {
       "name": "Deeper PRO+ 2",
@@ -86,7 +90,8 @@
       "bank_score": 73,
       "score_parts": "33.3 + 15 + 15 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-pro-2"
     },
     {
       "name": "Deeper MAX",
@@ -103,7 +108,8 @@
       "bank_score": 70,
       "score_parts": "40 + 0 + 20 + 10",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-max"
     },
     {
       "name": "Garmin Striker Cast (no GPS)",
@@ -120,7 +126,8 @@
       "bank_score": 67,
       "score_parts": "20 + 30 + 16.7 + 0",
       "note": "Not in stock on Amazon Oct 21",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-garmin-striker-cast-no-gps"
     },
     {
       "name": "ReelSonar iBobber",
@@ -137,7 +144,8 @@
       "bank_score": 57,
       "score_parts": "10.2 + 30 + 16.7 + 0",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-reelsonar-ibobber"
     },
     {
       "name": "Deeper START",
@@ -154,7 +162,8 @@
       "bank_score": 57,
       "score_parts": "16.7 + 30 + 10 + 0",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-deeper-start"
     },
     {
       "name": "LUCKY FF168-WLA",
@@ -171,7 +180,8 @@
       "bank_score": 40,
       "score_parts": "40 + 0 + 0 + 0",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-lucky-ff168-wla"
     },
     {
       "name": "Venterior portable fish finder",
@@ -188,7 +198,8 @@
       "bank_score": 27,
       "score_parts": "26.7 + 0 + 0 + 0",
       "note": "",
-      "checked": "October 21, 2026"
+      "checked": "October 21, 2026",
+      "url": "https://anglerleague.com/castable-sonar-index/#spec-venterior-portable-fish-finder"
     }
   ]
 }
