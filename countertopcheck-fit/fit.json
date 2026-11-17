@@ -37,7 +37,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "head-up height not published"
+   "in_use_caveat": "head-up height not published",
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-artisan-mini-ksm3311x"
   },
   {
    "id": "kitchenaid-classic-k45ss",
@@ -69,7 +70,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "head-up height not published"
+   "in_use_caveat": "head-up height not published",
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-classic-k45ss"
   },
   {
    "id": "cuisinart-precision-master-sm-50",
@@ -93,7 +95,8 @@
    "complete": false,
    "warn": null,
    "note": "Tilt-head; head-up height not published. Height and depth from Abt's spec tab (Cuisinart's site refused our fetch); Abt's width figure was left out as implausible.",
-   "in_use_caveat": "head-up height not published"
+   "in_use_caveat": "head-up height not published",
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-precision-master-sm-50"
   },
   {
    "id": "ankarsrum-assistent-original",
@@ -125,7 +128,8 @@
    "complete": false,
    "warn": null,
    "note": "Raised-arm height not published.",
-   "in_use_caveat": "raised-arm height not published"
+   "in_use_caveat": "raised-arm height not published",
+   "url": "https://countertopcheck.com/fit/#fit-ankarsrum-assistent-original"
   },
   {
    "id": "hamilton-beach-4-qt-63391",
@@ -153,7 +157,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "head-up height not published"
+   "in_use_caveat": "head-up height not published",
+   "url": "https://countertopcheck.com/fit/#fit-hamilton-beach-4-qt-63391"
   },
   {
    "id": "breville-bakery-chef-bem825",
@@ -181,7 +186,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "head-up height not published"
+   "in_use_caveat": "head-up height not published",
+   "url": "https://countertopcheck.com/fit/#fit-breville-bakery-chef-bem825"
   },
   {
    "id": "kitchenaid-bowl-lift-5-5-qt-ksm55",
@@ -209,7 +215,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "bowl-lift; in-use height not published"
+   "in_use_caveat": "bowl-lift; in-use height not published",
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-bowl-lift-5-5-qt-ksm55"
   },
   {
    "id": "kitchenaid-bowl-lift-7-qt-ksm70",
@@ -237,7 +244,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "bowl-lift; in-use height not published"
+   "in_use_caveat": "bowl-lift; in-use height not published",
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-bowl-lift-7-qt-ksm70"
   },
   {
    "id": "kitchenaid-pro-600-kp26m1x",
@@ -269,7 +277,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "bowl-lift; in-use height not published"
+   "in_use_caveat": "bowl-lift; in-use height not published",
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-pro-600-kp26m1x"
   },
   {
    "id": "kitchenaid-artisan-ksm150ps",
@@ -310,7 +319,8 @@
    "complete": true,
    "warn": null,
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-kitchenaid-artisan-ksm150ps"
   },
   {
    "id": "smeg-50s-style-smf02",
@@ -351,7 +361,8 @@
    "complete": true,
    "warn": null,
    "note": "Smeg's sheet gives inch and millimetre figures that disagree slightly; we use its inch figures (its millimetre figures are a little taller).",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-smeg-50s-style-smf02"
   },
   {
    "id": "bosch-universal-plus-mum6n10uc",
@@ -379,7 +390,8 @@
    "complete": false,
    "warn": null,
    "note": "Bosch's spec sheet gives one height, 7 15/16 in, without saying whether the bowl and lid are included, so height is left as not published.",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-bosch-universal-plus-mum6n10uc"
   },
   {
    "id": "blendtec-designer-650",
@@ -411,7 +423,8 @@
    "complete": false,
    "warn": null,
    "note": "Blendtec lists one height, not labeled base-only or with jar; cord length not published.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-blendtec-designer-650"
   },
   {
    "id": "ninja-professional-plus-bn701",
@@ -447,7 +460,8 @@
    "complete": false,
    "warn": null,
    "note": "Numbers from Ninja Canada page for BN701C (Canadian version); the US sharkninja.com page publishes no dimensions.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-ninja-professional-plus-bn701"
   },
   {
    "id": "vitamix-ascent-a2300",
@@ -475,7 +489,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-ascent-a2300"
   },
   {
    "id": "vitamix-ascent-a3500",
@@ -503,7 +518,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-ascent-a3500"
   },
   {
    "id": "vitamix-ascent-x2",
@@ -535,7 +551,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix lists one dimension line (L x W x H), not labeled base-only or with container; cord length not published on the page.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-ascent-x2"
   },
   {
    "id": "vitamix-propel-510",
@@ -563,7 +580,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-propel-510"
   },
   {
    "id": "breville-fresh-furious-bbl620",
@@ -595,7 +613,8 @@
    "complete": false,
    "warn": null,
    "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-breville-fresh-furious-bbl620"
   },
   {
    "id": "vitamix-explorian-e310",
@@ -623,7 +642,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-explorian-e310"
   },
   {
    "id": "breville-super-q-bbl920",
@@ -655,7 +675,8 @@
    "complete": false,
    "warn": null,
    "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-breville-super-q-bbl920"
   },
   {
    "id": "breville-the-q-bbl820",
@@ -687,7 +708,8 @@
    "complete": false,
    "warn": null,
    "note": "Breville lists Dimensions (WxDxH) without saying base-only or with jug; cord length not published.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-breville-the-q-bbl820"
   },
   {
    "id": "vitamix-vx1",
@@ -723,7 +745,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix lists one dimension line (L x W x H), not labeled base-only or with container.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-vx1"
   },
   {
    "id": "vitamix-5200",
@@ -751,7 +774,8 @@
    "complete": false,
    "warn": null,
    "note": "Vitamix gives one dimension line without labelling width and depth or saying whether the container is on the base, so only the height is used.",
-   "in_use_caveat": "not stated if the jar is included"
+   "in_use_caveat": "not stated if the jar is included",
+   "url": "https://countertopcheck.com/fit/#fit-vitamix-5200"
   },
   {
    "id": "ninja-foodi-digital-air-fry-oven-sp101",
@@ -792,7 +816,8 @@
    "complete": false,
    "warn": null,
    "note": "Cooks lying flat; flips up on its back for storage. Sizes from Staples.ca and Office Depot spec tabs, which list 19.72 L x 14.96 W; we show L as width. Cord and weight from SharkNinja Canada (SP101C).",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-ninja-foodi-digital-air-fry-oven-sp101"
   },
   {
    "id": "chefman-easyair-15-qt-toaster-oven-rj50-15t",
@@ -821,7 +846,8 @@
    "complete": false,
    "warn": null,
    "note": "maker lists 15 x 16.8 x 11.4 in without saying which of the first two is width or depth",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-chefman-easyair-15-qt-toaster-oven-rj50-15t"
   },
   {
    "id": "cuisinart-chefs-convection-toaster-oven-tob-260n1",
@@ -850,7 +876,8 @@
     "u": "https://www.cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1747991274521//Instruction%20Booklet/TOB-260N1C.pdf"
    },
    "note": "Height from Abt's spec tab; width and depth left out because the figures are not labelled.",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-chefs-convection-toaster-oven-tob-260n1"
   },
   {
    "id": "cuisinart-compact-airfryer-toaster-oven-toa-26",
@@ -882,7 +909,8 @@
    "complete": false,
    "warn": null,
    "note": "Sizes and weight from Abt's spec tab (Cuisinart's site refused our fetch).",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-compact-airfryer-toaster-oven-toa-26"
   },
   {
    "id": "our-place-wonder-oven",
@@ -894,7 +922,7 @@
    "asin": "B0CLTKGWQX",
    "oos": false,
    "h": {
-    "v": 11.6,
+    "v": 10.9,
     "u": "https://fromourplace.com/products/wonder-oven"
    },
    "w": {
@@ -910,11 +938,12 @@
     "u": "https://fromourplace.com/products/wonder-oven"
    },
    "clear_above": false,
-   "need": 11.6,
+   "need": 10.9,
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-our-place-wonder-oven"
   },
   {
    "id": "cuisinart-airfryer-toaster-oven-grill-toa-70",
@@ -955,7 +984,8 @@
     "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728119420384//Instruction%20Booklet/toa70c_en.pdf"
    },
    "note": "Sizes and weight from Abt's spec tab (Cuisinart's site refused our fetch); placement line from Cuisinart's Canadian TOA-70C manual.",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-airfryer-toaster-oven-grill-toa-70"
   },
   {
    "id": "breville-smart-oven-air-fryer-bov860",
@@ -992,7 +1022,8 @@
    "complete": true,
    "warn": null,
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-breville-smart-oven-air-fryer-bov860"
   },
   {
    "id": "breville-smart-oven-pro-bov845",
@@ -1029,7 +1060,8 @@
    "complete": true,
    "warn": null,
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-breville-smart-oven-pro-bov845"
   },
   {
    "id": "ninja-combi-sfp701",
@@ -1065,7 +1097,8 @@
    "complete": false,
    "warn": null,
    "note": "maker lists 18.31 in L x 17.13 in W; depth taken as the L figure",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-ninja-combi-sfp701"
   },
   {
    "id": "breville-smart-oven-air-fryer-pro-bov900",
@@ -1102,7 +1135,8 @@
    "complete": true,
    "warn": null,
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-breville-smart-oven-air-fryer-pro-bov900"
   },
   {
    "id": "black-decker-crisp-n-bake-french-door-to62d5",
@@ -1143,7 +1177,8 @@
     "u": "https://cdn.shopify.com/s/files/1/0613/0266/9421/files/TO62D5-1SD_Use_and_Care_Manual.pdf"
    },
    "note": "Depth is the maker's listed Length.",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-black-decker-crisp-n-bake-french-door-to62d5"
   },
   {
    "id": "chefman-indoor-pizza-oven-rj25-po12",
@@ -1167,7 +1202,8 @@
    "complete": false,
    "warn": null,
    "note": "maker lists 18.7 x 17 x 10.94 in without labeling width vs depth; manual asks for room for ventilation on all sides but gives no figure",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-chefman-indoor-pizza-oven-rj25-po12"
   },
   {
    "id": "cuisinart-indoor-pizza-oven-cpz-120",
@@ -1204,7 +1240,8 @@
     "u": "https://cuisinart.ca/on/demandware.static/-/Sites-master-ca/en_CA/v1728378187109//Instruction%20Booklet/cpz120c_ib_en.pdf"
    },
    "note": "Sizes from Everything Kitchens' spec tab (Cuisinart's site refused our fetch); depth is the listed Length.",
-   "in_use_caveat": "clearance above not published"
+   "in_use_caveat": "clearance above not published",
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-indoor-pizza-oven-cpz-120"
   },
   {
    "id": "ooni-volt-2",
@@ -1233,7 +1270,8 @@
    "complete": true,
    "warn": null,
    "note": "Ooni lists 21.5 x 17.4 x 10.4 in without labelling width and depth.",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-ooni-volt-2"
   },
   {
    "id": "breville-pizzaiolo-bpz820",
@@ -1270,7 +1308,8 @@
    "complete": true,
    "warn": null,
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-breville-pizzaiolo-bpz820"
   },
   {
    "id": "typhur-fast-nugget-ice-maker",
@@ -1303,7 +1342,8 @@
    "complete": false,
    "warn": null,
    "note": "Sizes are for the Wi-Fi version sold on typhur.com.",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-typhur-fast-nugget-ice-maker"
   },
   {
    "id": "silonn-slim17b",
@@ -1335,7 +1375,8 @@
    "complete": false,
    "warn": null,
    "note": "Silonn page also lists unlabeled dimensions 12.83 x 14.88 x 10.12; the labeled W x D x H line is used",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-silonn-slim17b"
   },
   {
    "id": "ge-profile-opal-mini-p4nm20",
@@ -1376,7 +1417,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-ge-profile-opal-mini-p4nm20"
   },
   {
    "id": "ge-profile-opal-mini-pro-p4nm25",
@@ -1417,7 +1459,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-ge-profile-opal-mini-pro-p4nm25"
   },
   {
    "id": "ge-profile-opal-2-0-xpio23",
@@ -1454,7 +1497,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-ge-profile-opal-2-0-xpio23"
   },
   {
    "id": "ge-profile-opal-2-0-side-tank-xpio13",
@@ -1491,7 +1535,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-ge-profile-opal-2-0-side-tank-xpio13"
   },
   {
    "id": "hamilton-beach-29982",
@@ -1519,7 +1564,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-hamilton-beach-29982"
   },
   {
    "id": "zojirushi-home-bakery-mini-bb-hac10",
@@ -1547,7 +1593,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-zojirushi-home-bakery-mini-bb-hac10"
   },
   {
    "id": "zojirushi-virtuoso-plus-bb-pdc20",
@@ -1575,7 +1622,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-zojirushi-virtuoso-plus-bb-pdc20"
   },
   {
    "id": "zojirushi-virtuoso-plus-bb-ppc20",
@@ -1616,7 +1664,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-zojirushi-virtuoso-plus-bb-ppc20"
   },
   {
    "id": "breville-custom-loaf-bbm800xl",
@@ -1642,7 +1691,7 @@
    "clear": {
     "v": 4,
     "what": "both sides",
-    "u": "https://www.breville.com/content/dam/breville/ca/assets/miscellaneous/instruction-manual/ovens/BBM800-instruction-manual.pdf"
+    "u": "https://assets.breville.com/BBM800/BBM800_USCM_IB_I26_LR.pdf"
    },
    "lb": {
     "v": 16.84,
@@ -1653,7 +1702,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-breville-custom-loaf-bbm800xl"
   },
   {
    "id": "zojirushi-maestro-bb-ssc10",
@@ -1681,7 +1731,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-zojirushi-maestro-bb-ssc10"
   },
   {
    "id": "panasonic-sd-r2550",
@@ -1713,7 +1764,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "lid-open height not published"
+   "in_use_caveat": "lid-open height not published",
+   "url": "https://countertopcheck.com/fit/#fit-panasonic-sd-r2550"
   },
   {
    "id": "cuisinart-compact-cbk-110",
@@ -1738,7 +1790,8 @@
     "u": "https://images.salsify.com/images/949ec838681c860174a46a604e4ad3eb47eb4371/CBK-110.pdf"
    },
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-compact-cbk-110"
   },
   {
    "id": "cuisinart-convection-cbk-210",
@@ -1763,7 +1816,8 @@
     "u": "https://images.salsify.com/images/f836d5d3833a45efc1d070ee77d63191f6652963/CBK-210.pdf"
    },
    "note": "",
-   "in_use_caveat": null
+   "in_use_caveat": null,
+   "url": "https://countertopcheck.com/fit/#fit-cuisinart-convection-cbk-210"
   },
   {
    "id": "black-decker-bcd6w",
@@ -1795,7 +1849,8 @@
    "complete": false,
    "warn": null,
    "note": "maker page labels front-to-back size as Length",
-   "in_use_caveat": "in-use clearance not published"
+   "in_use_caveat": "in-use clearance not published",
+   "url": "https://countertopcheck.com/fit/#fit-black-decker-bcd6w"
   },
   {
    "id": "midea-mdc17p0abb",
@@ -1827,7 +1882,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "in-use clearance not published"
+   "in_use_caveat": "in-use clearance not published",
+   "url": "https://countertopcheck.com/fit/#fit-midea-mdc17p0abb"
   },
   {
    "id": "midea-mdc22p1aww",
@@ -1859,7 +1915,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "in-use clearance not published"
+   "in_use_caveat": "in-use clearance not published",
+   "url": "https://countertopcheck.com/fit/#fit-midea-mdc22p1aww"
   },
   {
    "id": "danby-ddw631sdb",
@@ -1891,7 +1948,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "in-use clearance not published"
+   "in_use_caveat": "in-use clearance not published",
+   "url": "https://countertopcheck.com/fit/#fit-danby-ddw631sdb"
   },
   {
    "id": "midea-mdc17p2bww",
@@ -1923,7 +1981,8 @@
    "complete": false,
    "warn": null,
    "note": "",
-   "in_use_caveat": "in-use clearance not published"
+   "in_use_caveat": "in-use clearance not published",
+   "url": "https://countertopcheck.com/fit/#fit-midea-mdc17p2bww"
   }
  ]
 }

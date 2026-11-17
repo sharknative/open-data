@@ -147,56 +147,56 @@
      "value": "56.1",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "quote": "Unfolded Size : 56.1 X 22 X 4.1 in",
      "src_type": "maker"
     },
     "use_w": {
      "value": "22",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "quote": "Unfolded Size : 56.1 X 22 X 4.1 in",
      "src_type": "maker"
     },
     "use_h": {
      "value": "4.1",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Unfolded Size: 56.1 x 22 x 4.1 in",
+     "quote": "Unfolded Size : 56.1 X 22 X 4.1 in",
      "src_type": "maker"
     },
     "stored_l": {
      "value": "31.8",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "quote": "Folded Size : 31.8 X 22 X 5.4 in",
      "src_type": "maker"
     },
     "stored_w": {
      "value": "22",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "quote": "Folded Size : 31.8 X 22 X 5.4 in",
      "src_type": "maker"
     },
     "stored_h": {
      "value": "5.4",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Folded Size: 31.8 x 22 x 5.4 in",
+     "quote": "Folded Size : 31.8 X 22 X 5.4 in",
      "src_type": "maker"
     },
     "weight": {
      "value": "51",
      "unit": "lb",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Net Weight: 51 lb",
+     "quote": "Net Weight : 51 lb",
      "src_type": "maker"
     },
     "max_user": {
      "value": "242",
      "unit": "lb",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Weight Capacity: 242 lb",
+     "quote": "Weight Capacity : 242 lb",
      "src_type": "maker"
     },
     "hp_continuous": {
@@ -217,7 +217,7 @@
      "value": "47.6 x 15.7",
      "unit": "in",
      "src": "https://www.walkingpad.com/products/walkingpad-z1-under-desk-treadmill",
-     "quote": "Walking Area: 47.6 x 15.7 in",
+     "quote": "Walking Area : 47.6 X 15.7 in",
      "src_type": "maker"
     },
     "step_up": {
@@ -316,11 +316,11 @@
      "src_type": "listing"
     },
     "weight": {
-     "value": "43",
-     "unit": "lb",
-     "src": "https://www.amazon.com/dp/B0HH9KHJR9",
-     "quote": "Item Weight 43 pounds",
-     "src_type": "listing"
+     "value": "",
+     "unit": "",
+     "src": "",
+     "quote": "",
+     "src_type": ""
     },
     "max_user": {
      "value": "265",
@@ -1516,7 +1516,7 @@
      "value": "8.3",
      "unit": "in",
      "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
-     "quote": "Step-Up Height: 8.3 inches",
+     "quote": "Step up height: 8.3 inches (21.1 cm)",
      "src_type": "maker"
     },
     "stride": {
@@ -1537,7 +1537,7 @@
      "value": "Easily fold and roll away with SpaceSaver design",
      "unit": "",
      "src": "https://www.nordictrack.com/product/t-series-16-treadmill",
-     "quote": "Easily fold and roll away with SpaceSaver design",
+     "quote": "Easily fold and roll away with SpaceSaver™ Design",
      "src_type": "maker"
     }
    },
@@ -2554,7 +2554,7 @@
      "value": "separates into two pieces for storage, no tools required",
      "unit": "",
      "src": "https://www.concept2.com/indoor-rowers/rowerg",
-     "quote": "can be quickly separated into two pieces for storage, no tools required",
+     "quote": "can be quickly separated into two pieces for storage (no tools required)",
      "src_type": "maker"
     }
    },
